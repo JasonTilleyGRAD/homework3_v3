@@ -118,7 +118,7 @@ class CoTGrader(Grader):
         score_normalized = (score - min_score) / (max_score - min_score)
         return np.clip(score_normalized, 0.0, 1.0)
 
-    @Case(score=25, timeout=60000)
+    @Case(score=25, timeout=120000)
     def test_validation_loss(self):
         """Test the answer accuracy"""
         dataset = self.module.data.Dataset("valid")

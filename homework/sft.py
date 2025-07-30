@@ -83,14 +83,14 @@ def train_model(output_dir: str, **kwargs,):
     
     model = BaseLLM().model
     tokenizer = AutoTokenizer.from_pretrained(model.config._name_or_path)
-    rank = 4
+    rank = 8
 
     pft_dict = {
         'task_type': 'CAUSAL_LM',
         'target_modules': 'all-linear',
         'bias': 'none',
         'r': rank,
-        'lora_alpha': 4*rank,
+        'lora_alpha': 5*rank,
     }
 
     pft_config = LoraConfig(**pft_dict)
@@ -104,7 +104,7 @@ def train_model(output_dir: str, **kwargs,):
 
     train_args = TrainingArguments(
         gradient_checkpointing=True,
-        learning_rate=1e-4,
+        learning_rate=1e-3,
         output_dir=output_dir,
         logging_dir=output_dir,
         report_to="tensorboard",

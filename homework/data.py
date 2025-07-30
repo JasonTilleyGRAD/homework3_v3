@@ -46,9 +46,6 @@ class BenchmarkResult:
             for item, answer in zip(dataset, answers[:max_question])
         ]
         n = min(len(dataset), max_question)
-
-        for sample in samples:
-            print(f"Question: {sample.question}, Answer: {sample.answer}, Correct: {sample.correct_answer}, Is Correct: {sample.is_correct}" +"\n")
     
         return cls(
             accuracy=sum(sample.is_correct for sample in samples) / n,
