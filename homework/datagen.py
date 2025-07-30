@@ -33,7 +33,6 @@ def generate_dataset(output_json: str, oversample: int = 10, temperature: float 
 
     prompts = [model.format_prompt(q) for q in question]
     generations = model.batched_generate(prompts,num_return_sequences = 10,temperature = temperature)
-    torch.mps.empty_cache()
    
     for i in range(len(question)):
         q = question[i]
