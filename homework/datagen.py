@@ -12,27 +12,45 @@ def generate_dataset(output_json: str, oversample: int = 10, temperature: float 
     import random
     import torch
 
-    if not os.path.exists(output_json): 
-        model = CoTModel('HuggingFaceTb/SmolLM2-1.7B-instruct')
-        trainset = Dataset("train")
+    dataset = []
 
-        dataset = []
-        
+    if os.path.exists(output_json): 
+        size = 1
+        with open(output_json, 'r') as f:
+            dataset = json.load(f)
 
-        for _ in tqdm.tqdm(range(100)):
-            
-            question, correct_answer = random.choice(list(trainset))
-            prompts = [model.format_prompt(q) for q in question]
-            generations = model.batched_generate(prompts,num_return_sequences = oversample,temperature = temperature)
-            torch.mps.empty_cache()
-            for raw_answer in generations: 
-                if is_answer_valid(raw_answer, correct_answer):
-                    dataset.append([question, correct_answer, raw_answer])
-                    print("Success")
-    
-                    
-        with open(output_json, 'w') as f:
-            json.dump(dataset, f, indent=2)
+    else:
+        size = 50
+
+    model = CoTModel('HuggingFaceTb/SmolLM2-1.7B-instruct')
+    trainset = Dataset("train")
+
+
+ 
+    sampled = random.sample(list(trainset), k=min(size, len(trainset)))
+
+    question, correct_answer = zip(*sampled)
+
+    prompts = [model.format_prompt(q) for q in question]
+    generations = model.batched_generate(prompts,num_return_sequences = 10,temperature = temperature)
+    torch.mps.empty_cache()
+   
+    for i in range(len(question)):
+        q = question[i]
+        correct = correct_answer[i]
+        gen_list = generations[i]
+        gen_list_parsed = [model.parse_answer(g) for g in gen_list]
+                
+        for j in range(len(gen_list)):
+            if is_answer_valid(gen_list_parsed[j], correct):
+                dataset.append([q, correct, gen_list[j]])
+                print(f"Success on index {i}")
+                break
+
+
+               
+    with open(output_json, 'w') as f:
+        json.dump(dataset, f, indent=2)
 
 
 

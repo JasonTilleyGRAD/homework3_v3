@@ -17,11 +17,68 @@ def load() -> BaseLLM:
 
     return llm
 
+def tokenize(tokenizer, question: str, answer: str, reasoning: str):
+    """
+    Tokenize a data element.
+    We first append the <EOS> token to the question / answer pair.
+    Then we tokenize and construct the ground truth `labels`.
+    `labels[i] == -100` for the question or masked out parts, since we only want to supervise
+    the answer.
+    """
+    full_text = f"{question} {answer}{reasoning}{tokenizer.eos_token}"
+
+    tokenizer.padding_side = "right"
+    tokenizer.pad_token = tokenizer.eos_token
+    full = tokenizer(full_text, padding="max_length", truncation=True, max_length=128)
+
+    input_ids = full["input_ids"]
+    question_len = len(tokenizer(question)["input_ids"])
+
+    # Create labels: mask out the prompt part
+    labels = [-100] * question_len + input_ids[question_len:]
+
+    for i in range(len(labels)):
+        if full["attention_mask"][i] == 0:
+            labels[i] = -100
+
+    full["labels"] = labels
+    return full
+
+
+def format_example(prompt: str, answer: str, reasoning: str) -> dict[str, str,str]:
+    """
+    Construct a question / answer pair. Consider rounding the answer to make it easier for the LLM.
+    """
+    
+
+    return {"question": prompt, "answer": f"<answer>{answer}</answer>", "reasoning": reasoning}
+
+
+class TokenizedDataset:
+    def __init__(self, tokenizer, data: Dataset, format_fn):
+        """
+        Use the
+        - BaseLLM.tokenizer
+        - Dataset
+        - format_fn which converts a data element into a dict with entries
+          - question: str
+          - answer: str
+        """
+        self.format_fn = format_fn
+        self.tokenizer = tokenizer
+        self.data = data
+
+    def __len__(self):
+        return len(self.data)
+
+    def __getitem__(self, idx):
+        formated_data = self.format_fn(*self.data[idx])
+        return tokenize(self.tokenizer, **formated_data)
+
 
 def train_model(output_dir: str,**kwargs):
     from peft import get_peft_model, LoraConfig
     from transformers import Trainer, TrainingArguments, AutoTokenizer
-    from .sft import TokenizedDataset, format_example
     from .datagen import generate_dataset
 
     generate_dataset("data/rft.json")
@@ -59,6 +116,8 @@ def train_model(output_dir: str,**kwargs):
     
     
     trainset = Dataset("rft")
+
+    
     tokenized_trainset = TokenizedDataset(tokenizer, trainset, format_example)
 
     trainer = Trainer(
