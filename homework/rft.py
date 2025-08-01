@@ -85,7 +85,7 @@ def train_model(output_dir: str,**kwargs):
     
     model = BaseLLM().model
     tokenizer = AutoTokenizer.from_pretrained(model.config._name_or_path)
-    rank = 8
+    rank = 6
 
     pft_dict = {
         'task_type': 'CAUSAL_LM',
@@ -111,7 +111,7 @@ def train_model(output_dir: str,**kwargs):
         output_dir=output_dir,
         logging_dir=output_dir,
         report_to="tensorboard",
-        num_train_epochs=5,
+        num_train_epochs=7,
         per_device_train_batch_size=32,    
     )
     

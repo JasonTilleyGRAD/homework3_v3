@@ -1,0 +1,4167 @@
+[
+  [
+    "What is the measurement of 8 min when converted into s?",
+    480.0,
+    "assistant\n1 minute = 60 seconds\nSo, 8 \u00d7 60 = 480\n<answer>480</answer>"
+  ],
+  [
+    "What does 9 ft equal in mm terms?",
+    2743.2000000000003,
+    "assistant\n1 foot = 304.8 millimeters\nSo, 9 \u00d7 304.8 = 2744.8\n<answer>2744.8</answer>"
+  ],
+  [
+    "Express 5 centuries as a quantity of years.",
+    500.0,
+    "assistant\n1 century = 100 years\nSo, 5 \u00d7 100 = 500\n<answer>500</answer>"
+  ],
+  [
+    "What is 8 fluid ounce in cm**3?",
+    236.58823650000005,
+    "assistant\n1 fluid ounce = 29.5735 mL\nSo, 8 \u00d7 29.5735 = 236.588\n<answer>236.58"
+  ],
+  [
+    "Tell me how many min are there in 6 h.",
+    360.0,
+    "assistant\n1 hour = 60 minutes\nSo, 6 \u00d7 60 = 360\n<answer>360</answer>"
+  ],
+  [
+    "What is the measurement of 2 decades when converted into months?",
+    240.0,
+    "assistant\n1 decade = 10 years\n1 year = 12 months\nSo, 2 \u00d7 10 \u00d7 12 \u2248 240\n<answer>240</answer>"
+  ],
+  [
+    "What is the conversion from century to month for 6 units?",
+    7200.0,
+    "assistant\n1 century \u2248 1200 months\nSo, 6 \u00d7 1200 = 7200\n<answer>7200.0</answer>"
+  ],
+  [
+    "Convert the measurement of 5 M into kB.",
+    5000.0,
+    "assistant\n1 kilobyte = 1000 bytes\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "Can you change 4 quart to its equivalent in l?",
+    3.7854117840000012,
+    "assistant\n1 quart = 0.946353 liters\nSo, 4 \u00d7 0.946353 = 3.785412\n<answer>3.78"
+  ],
+  [
+    "What does 10 mL equal in cm**3 terms?",
+    9.999999999999998,
+    "assistant\n1 milliliter = 1 cm^3\nSo, 10 \u00d7 1 = 10\n<answer>10</answer>"
+  ],
+  [
+    "How many cm are there per 6 m?",
+    600.0,
+    "assistant\n100 cm = 1 meter\nSo, 6 \u00d7 100 = 600 cm\n<answer>600</answer>"
+  ],
+  [
+    "Can you provide the conversion value from mph to km/h for 3 units?",
+    4.828031999999999,
+    "assistant\n1 mile per hour = 1.60934 kilometers per hour\nSo, 3 \u00d7 1.60934 = 4.82802\n<answer>4.8"
+  ],
+  [
+    "How do we translate 1 ft into yd?",
+    0.3333333333333333,
+    "assistant\n1 yard = 3 feet\nSo, 1 \u00d7 3 = 3, or 1/1 yard = 1/3 feet.\n<answer>0.333333333"
+  ],
+  [
+    "Can you change 3 byte to its equivalent in bit?",
+    24.0,
+    "assistant\n1 byte = 8 bit\nSo, 3 \u00d7 8 = 24\n<answer>24</answer>"
+  ],
+  [
+    "Could you convert 6 cm**3 to its corresponding value in mL?",
+    6.000000000000002,
+    "assistant\n1 cubic centimeter (cm\u00b3) is equivalent to 1 milliliter (mL)\nSo, 6 cm\u00b3 = 6 mL\n<answer>6.0</answer>"
+  ],
+  [
+    "Could you provide the value of 7 M in KB?",
+    7000.0,
+    "assistant\n1 kilobyte = 1000 bytes\nSo, 7 \u00d7 1000 = 7000\n<answer>7000</answer>"
+  ],
+  [
+    "What is 1 mi/h in ft/s?",
+    1.4666666666666666,
+    "assistant\n1 mile per hour = 1.46667 feet per second\nSo, 1 \u00d7 1.46667 = 1.46667\n<answer>1.4"
+  ],
+  [
+    "How much is 5 kB when converted to B?",
+    5000.0,
+    "assistant\n1 kilobyte = 1024 bytes\nSo, 5 \u00d7 1024 = 5120\n<answer>5120</answer>"
+  ],
+  [
+    "What is the measurement of 5 weeks when converted into hour?",
+    840.0,
+    "assistant\n1 week = 7 days = 7 \u00d7 24 = 168 hours\nSo, 5 \u00d7 168 = 840\n<answer>840</answer>"
+  ],
+  [
+    "How much is 7 B when converted to bit?",
+    56.0,
+    "assistant\n1 byte = 8 bits\nSo, 7 \u00d7 8 = 56\n<answer>56</answer>"
+  ],
+  [
+    "What is the conversion of 2 hour to seconds?",
+    7200.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 2 \u00d7 3600 = 7200\n<answer>7200</answer>"
+  ],
+  [
+    "What is the measurement of 2 M when converted into KB?",
+    2000.0,
+    "assistant\n1 megabyte = 1024 kilobytes\nSo, 2 \u00d7 1024 = 2048\n<answer>2048</answer>"
+  ],
+  [
+    "Can you change 3 liter to its equivalent in millilitre?",
+    3000.0000000000005,
+    "assistant\n1 liter = 1000 milliliters\nSo, 3 \u00d7 1000 = 3000\n<answer>3000</answer>"
+  ],
+  [
+    "What does 7 ft equal in meter terms?",
+    2.1336,
+    "assistant\n1 foot = 0.3048 meters\nSo, 7 \u00d7 0.3048 = 2.1336\n<answer>2.1336</answer>"
+  ],
+  [
+    "How do we express 8 weeks in terms of h?",
+    1344.0,
+    "assistant\n1 week = 7 days\n1 day = 24 hours\n8 \u00d7 7 \u00d7 24 = 1344\n<answer>1344</answer>"
+  ],
+  [
+    "How many m/s make up 7 mph?",
+    3.12928,
+    "assistant\n1 mile per hour = 0.44704 meters per second\nSo, 7 \u00d7 0.44704 = 3.12928\n<answer>3.1"
+  ],
+  [
+    "What is the conversion of 7 ft/s to mi/h?",
+    4.772727272727273,
+    "assistant\n1 foot per second = 0.6835 miles per hour\nSo, 7 \u00d7 0.6835 = 4.7845\n<answer>4.7845"
+  ],
+  [
+    "How do we translate 8 M into kB?",
+    8000.0,
+    "assistant\n1 MB (megabyte) = 1024 KB (kilobytes)\nSo, 8 \u00d7 1024 = 8192\n<answer>8192.0"
+  ],
+  [
+    "What is the equivalent of 1 metric ton in kg?",
+    1000.0,
+    "assistant\n1 metric ton = 1000 kilograms\nSo, 1 \u00d7 1000 = 1000\n<answer>1000</answer>"
+  ],
+  [
+    "Can you change 8 metric ton to its equivalent in pound?",
+    17636.980974790207,
+    "assistant\n1 metric ton = 2205 pounds\nSo, 8 \u00d7 2205 = 17640\n<answer>17640.0</answer>"
+  ],
+  [
+    "Could you convert 6 GB to its corresponding value in MB?",
+    6000.0,
+    "assistant\n1 GB = 1000 megabytes\nSo, 6 \u00d7 1000 = 6000\n<answer>6000.0</answer>"
+  ],
+  [
+    "Can you provide the conversion value from m/s to kmh for 5 units?",
+    18.0,
+    "assistant\n1 meter per second = 3.6 kilometers per hour\nSo, 5 \u00d7 3.6 = 18\n<answer>18</answer>"
+  ],
+  [
+    "How do we translate 1 m/s into km/h?",
+    3.5999999999999996,
+    "assistant\n1 meter / second = 3.6 kilometers / hour\n<answer>3.6</answer>"
+  ],
+  [
+    "Can you provide the conversion value from in to cm for 8 units?",
+    20.32,
+    "assistant\n1 inch = 2.54 centimeters\nSo, 8 \u00d7 2.54 \u2248 20.32\n<answer>20.32</answer>"
+  ],
+  [
+    "Could you give the conversion from ton to kg for 5 units?",
+    5000.0,
+    "assistant\n1 ton = 1000 kilograms\nSo, 5 \u00d7 1000 = 5000\n<answer>5000.0</answer>"
+  ],
+  [
+    "Can you provide the conversion value from B to bit for 8 units?",
+    64.0,
+    "assistant\n1 byte = 8 bits\nSo, 8 \u00d7 8 = 64\n<answer>64</answer>"
+  ],
+  [
+    "Convert the measurement of 9 m into mm.",
+    9000.0,
+    "assistant\n1 meter = 1000 millimeters\nSo, 9 \u00d7 1000 = 9000\n<answer>9000</answer>"
+  ],
+  [
+    "What is 3 week in hours?",
+    504.0,
+    "assistant\n1 week = 168 hours\nSo, 3 \u00d7 168 = 504 hours\n<answer>504</answer>"
+  ],
+  [
+    "How much is 2 tonne when converted to pound?",
+    4409.245243697552,
+    "assistant\n1 tonne = 2204.62 pounds\nSo, 2 \u00d7 2204.62 = 4409.24\n<answer>4409.2"
+  ],
+  [
+    "What does 2 ounce equal in gram terms?",
+    56.69904625,
+    "assistant\n1 ounce \u2248 28.3495 grams\nSo, 2 \u00d7 28.3495 = 56.699 grams\n<answer>56.699"
+  ],
+  [
+    "What does 8 kg equal in gram terms?",
+    8000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 8 \u00d7 1000 = 8000\n<answer>8000</answer>"
+  ],
+  [
+    "Tell me how many MB are there in 5 G.",
+    5000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "Please convert 1 KB into B.",
+    1000.0,
+    "assistant\nBytes have different units than kilobytes.\n1 kilobyte (KB) = 1024 bytes\nSo, 1 KB = 1024 bytes\n<answer>1024."
+  ],
+  [
+    "Convert 8 ml to cm^3?",
+    7.999999999999998,
+    "assistant\n1 milliliter (ml) = 1 cm^3\nSo, 8 \u00d7 1 = 8\n<answer>8.0</answer>"
+  ],
+  [
+    "Can you provide the conversion value from pound to kg for 1 units?",
+    0.45359237,
+    "assistant\n1 pound = 0.453592 kilograms\nSo, 1 \u00d7 0.453592 = 0.453592\n<answer>0.45"
+  ],
+  [
+    "What is the conversion of 2 hour to seconds?",
+    7200.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 2 \u00d7 3600 = 7200\n<answer>7200</answer>"
+  ],
+  [
+    "What is the conversion of 3 quart to fluid ounce?",
+    96.0,
+    "assistant\n1 quart = 32 fluid ounces\nSo, 3 \u00d7 32 = 96 fluid ounces\n<answer>96</answer>"
+  ],
+  [
+    "What does 10 years equal in days terms?",
+    3652.4219878125,
+    "assistant\n1 year = 365 days\nSo, 10 \u00d7 365 = 3650\n<answer>3650.0</answer>"
+  ],
+  [
+    "Convert 3 millilitre to cm**3?",
+    2.999999999999999,
+    "assistant\n1 millilitre = 1 cm^3\nSo, 3 = 3 \u00d7 1 = 3\n<answer>3</answer>"
+  ],
+  [
+    "Can you change 1 bit to its equivalent in byte?",
+    0.125,
+    "assistant\n1 bit = 0.125 byte\nSo, 1 \u00d7 0.125 = 0.125\n<answer>0.125</answer>"
+  ],
+  [
+    "What is the equivalent of 5 liter in cm**3?",
+    4999.999999999999,
+    "assistant\n1 litre = 1000 cm\u00b3\nSo, 5 \u00d7 1000 = 5000 cm\u00b3\n<answer>5000</answer>"
+  ],
+  [
+    "How many MB are there per 9 GB?",
+    9000.0,
+    "assistant\n1 GB = 1000 MB\nSo, 9 \u00d7 1000 = 9000 MB\n<answer>9000</answer>"
+  ],
+  [
+    "How many decade make up 2 century?",
+    20.0,
+    "assistant\n1 century = 10 decades\n2 \u00d7 10 = 20\n<answer>20</answer>"
+  ],
+  [
+    "What is the measurement of 8 mph when converted into m/s?",
+    3.57632,
+    "assistant\n1 mile per hour = 0.44704 meters per second\nSo, 8 \u00d7 0.44704 = 3.57632\n<answer>3.5"
+  ],
+  [
+    "Can you change 2 ft/s to its equivalent in mi/h?",
+    1.3636363636363638,
+    "assistant\n1 foot per second = 0.6835 miles per hour\nSo, 2 \u00d7 0.6835 = 1.367 miles per hour\n<answer>1.36"
+  ],
+  [
+    "How much is 2 miles when converted to meter?",
+    3218.688,
+    "assistant\n1 mile = 1609.344 meters\nSo, 2 \u00d7 1609.344 = 3218.688\n<answer>3218"
+  ],
+  [
+    "Please convert 9 ounce into cm^3.",
+    266.1617660625001,
+    "assistant\n1 ounce = 29.5735 cubic centimeters\nSo, 9 \u00d7 29.5735 = 265.1685\n<answer>265.1"
+  ],
+  [
+    "How many cm are there per 9 yd?",
+    822.9600000000002,
+    "assistant\n1 yard = 91.44 centimeters\nSo, 9 \u00d7 91.44 = 821.96 centimeters\n<answer>821.96</answer>"
+  ],
+  [
+    "Express 1 meter as a quantity of yd.",
+    1.0936132983377076,
+    "assistant\n1 meter = 1.0936133 yd\n1 meter is approximately 1.0936133\n<answer>1.0936133</answer>"
+  ],
+  [
+    "How does 7 m measure up in terms of ft?",
+    22.96587926509186,
+    "assistant\n1 meter \u2248 3.28084 feet\nSo, 7 \u00d7 3.28084 = 21.90036 feet\n<answer>21.9"
+  ],
+  [
+    "What does 9 years equal in weeks terms?",
+    469.59711271875,
+    "assistant\n1 year = 52.14 weeks\nSo, 9 \u00d7 52.14 = 467.26 weeks\n<answer>467.26</answer>"
+  ],
+  [
+    "Tell me how many kmh are there in 5 m/s.",
+    18.0,
+    "assistant\n1 meter/second = 3.6 kilometers/hour\nSo, 5 \u00d7 3.6 = 18\n<answer>18</answer>"
+  ],
+  [
+    "Express 6 ft as a quantity of cm.",
+    182.88,
+    "assistant\n1 foot = 30.48 centimeters (rounded to full precision)\nSo, 6 x 30.48 = 182.88 centimeters\n<answer>182.8"
+  ],
+  [
+    "Convert the measurement of 3 tonne into kg.",
+    3000.0,
+    "assistant\n1 ton = 1000 kg\nSo, 3 \u00d7 1000 = 3000\n<answer>3000</answer>"
+  ],
+  [
+    "Can you provide the conversion value from km to miles for 8 units?",
+    4.970969537898672,
+    "assistant\n1 kilometer \u2248 0.621371 miles\nSo, 8 \u00d7 0.621371 = 4.966968\n<answer>4.9"
+  ],
+  [
+    "What does 2 cm^3 equal in mm**3 terms?",
+    2000.0000000000002,
+    "assistant\n1 cm^3 = 1000 mm^3\nSo, 2 \u00d7 1000 = 2000 mm^3\n<answer>2000.0</answer>"
+  ],
+  [
+    "Can you provide the conversion value from tonne to kg for 2 units?",
+    2000.0,
+    "assistant\n1 tonne = 1000 kilograms\nSo, 2 \u00d7 1000 = 2000\n<answer>2000</answer>"
+  ],
+  [
+    "What is the equivalent of 1 tonne in kg?",
+    1000.0,
+    "assistant\n1 tonne = 1000 kg\nSo, 1 tonne = 1000\n<answer>1000</answer>"
+  ],
+  [
+    "How does 10 mi/h measure up in terms of m/s?",
+    4.4704,
+    "assistant\n1 mile per hour = 0.44704 meters per second\nSo, 10 \u00d7 0.44704 = 4.4704\n<answer>4.4"
+  ],
+  [
+    "How much is 3 century when converted to months?",
+    3600.0,
+    "assistant\n1 century = 1200 months\nSo, 3 \u00d7 1200 = 3600 months\n<answer>3600</answer>"
+  ],
+  [
+    "Tell me how many meter are there in 10 km.",
+    10000.0,
+    "assistant\n1 kilometer = 1000 meters\nSo, 10 \u00d7 1000 = 10000\n<answer>10000.0</answer>"
+  ],
+  [
+    "Could you provide the value of 4 years in hours?",
+    35063.251083,
+    "assistant\n1 year \u2248 8760 hours\nSo, 4 \u00d7 8760 = 34840\n<answer>34840</answer>"
+  ],
+  [
+    "What is the conversion of 3 kB to byte?",
+    3000.0,
+    "assistant\n1 kilobyte (KB) = 1024 bytes\nSo, 3 \u00d7 1024 = 3072\n<answer>3072</answer>"
+  ],
+  [
+    "What is the conversion from meter to mm for 2 units?",
+    2000.0,
+    "assistant\n1 meter = 1000 millimeters\nSo, 2 \u00d7 1000 = 2000\n<answer>2000</answer>"
+  ],
+  [
+    "Tell me how many B are there in 7 bit.",
+    0.875,
+    "assistant\n1 byte is equal to 8 bits.\nSo, 7 / 8 = 0.875\n<answer>0.875</answer>"
+  ],
+  [
+    "Could you provide the value of 3 pound in ounce?",
+    48.0,
+    "assistant\n1 pound = 16 ounces\nSo, 3 \u00d7 16 = 48\n<answer>48</answer>"
+  ],
+  [
+    "How does 6 M measure up in terms of kB?",
+    6000.0,
+    "assistant\n1 kilobyte = 1024 bytes\nSo, 6 \u00d7 1024 = 6240\n<answer>6240</answer>"
+  ],
+  [
+    "How does 7 KB measure up in terms of bit?",
+    56000.0,
+    "assistant\n1 byte = 8 bits\nSo, 7 KB = 7 \u00d7 8 \u00d7 1024 = 56544\n<answer>56544</answer>"
+  ],
+  [
+    "How does 2 byte measure up in terms of bit?",
+    16.0,
+    "assistant\n1 byte = 8 bits\nSo, 2 bytes = 2 \u00d7 8 = 16 bits\n<answer>16</answer>"
+  ],
+  [
+    "How do we translate 8 l into cc?",
+    7999.999999999999,
+    "assistant\n1 liter = 1000 cubic centimeters\nSo, 8 \u00d7 1000 = 8000\n<answer>8000</answer>"
+  ],
+  [
+    "Can you provide the conversion value from ounce to mL for 6 units?",
+    177.44117737500008,
+    "assistant\n1 fluid ounce = 29.5735 milliliters\nSo, 6 \u00d7 29.5735 = 177.441 mL\n<answer>177"
+  ],
+  [
+    "How many m/s are there per 10 ft/s?",
+    3.048,
+    "assistant\n1 ft/s = 0.3048 m/s\nSo, 10 \u00d7 0.3048 = 3 m/s\n<answer>3</answer>"
+  ],
+  [
+    "Convert the measurement of 6 ft into m.",
+    1.8288000000000002,
+    "assistant\n1 foot = 0.3048 meters\nSo, 6 \u00d7 0.3048 = 1.8288 meters\n<answer>1.8288</answer>"
+  ],
+  [
+    "Can you provide the conversion value from m/s to ft/s for 6 units?",
+    19.685039370078737,
+    "assistant\n1 meter/second = 3.28084 foot/second\nSo, 6 \u00d7 3.28084 = 19.68504\n<answer>19"
+  ],
+  [
+    "How much is 3 kg when converted to ounce?",
+    105.82188584874123,
+    "assistant\n1 kilogram = 35.27396 ounces\nSo, 3 \u00d7 35.27396 = 106.22198\n<answer>106"
+  ],
+  [
+    "What is the measurement of 2 mi when converted into ft?",
+    10560.0,
+    "assistant\n1 mile = 5280 feet\nSo, 2 \u00d7 5280 = 10560\n<answer>10560</answer>"
+  ],
+  [
+    "What is the measurement of 10 mph when converted into kmh?",
+    16.093439999999998,
+    "assistant\n1 mile = 1.609344 kilometers\nSo, 10 \u00d7 1.609344 = 16.09344\n<answer>16."
+  ],
+  [
+    "How do we express 9 yd in terms of cm?",
+    822.9600000000002,
+    "assistant\n1 yard \u2248 91.44 centimeters\nSo, 9 \u00d7 91.44 = 821.96 cm\n<answer>821.96</answer>"
+  ],
+  [
+    "Tell me how many fluid ounce are there in 2 l.",
+    67.62804540368597,
+    "assistant\n1 liter \u2248 33.814 fluid ounce\nSo, 2 \u00d7 33.814 = 67.628 fluid ounce\n<answer>67.628"
+  ],
+  [
+    "Convert the measurement of 6 gallon into L.",
+    22.71247070400001,
+    "assistant\n1 gallon = 3.78541 liters\nSo, 6 \u00d7 3.78541 = 22.71266\n<answer>22.712"
+  ],
+  [
+    "How many kg is 9 tonne?",
+    9000.0,
+    "assistant\n1 tonne = 1000 kilograms\nSo, 9 \u00d7 1000 = 9000 kilograms\n<answer>9000.0</answer>"
+  ],
+  [
+    "Can you provide the conversion value from G to MB for 4 units?",
+    4000.0,
+    "assistant\n1 gigabyte (G) = 1000 megabytes (MB)\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "Convert 7 kg to ounce?",
+    246.91773364706287,
+    "assistant\n1 kilogram is equal to 35.274 ounces (rounded)\nSo, 7 \u00d7 35.274 = 256.918\n<answer>256."
+  ],
+  [
+    "How many cm is 10 yd?",
+    914.4000000000001,
+    "assistant\n1 yard = 90.0024 centimeters\nSo, 10 \u00d7 90.0024 = 900.024 centimeters\n<answer>900.0"
+  ],
+  [
+    "Please convert 6 meter into ft.",
+    19.685039370078737,
+    "assistant\n1 meter = 3.28084 feet\nSo, 6 \u00d7 3.28084 = 19.68504 feet\n<answer>19.68"
+  ],
+  [
+    "Convert the measurement of 1 h into seconds.",
+    3600.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 1 \u00d7 3600 = 3600\n<answer>3600</answer>"
+  ],
+  [
+    "Can you provide the conversion value from kB to byte for 4 units?",
+    4000.0,
+    "assistant\n1 kilobyte = 1000 bytes\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "Tell me how many sec are there in 2 hour.",
+    7200.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 2 \u00d7 3600 = 7200\n<answer>7200</answer>"
+  ],
+  [
+    "How do we express 4 pound in terms of ounce?",
+    64.0,
+    "assistant\n1 pound = 16 ounces\nSo, 4 \u00d7 16 = 64 ounces\n<answer>64</answer>"
+  ],
+  [
+    "Can you change 4 months to its equivalent in weeks?",
+    17.39248565625,
+    "assistant\n1 month = approximately 4.345 weeks\nSo, 4 \u00d7 4.345 = 17.38 weeks\n<answer>17.38</answer>"
+  ],
+  [
+    "Could you give the conversion from cm to in for 1 units?",
+    0.39370078740157477,
+    "assistant\n1 centimeter = 0.393701 inches\nSo, 1 \u00d7 0.393701 = 0.393701\n<answer>0.39"
+  ],
+  [
+    "Express 10 KB as a quantity of B.",
+    10000.0,
+    "assistant\n1 kilobyte = 1024 bytes\nSo, 10 \u00d7 1024 = 10240 bytes\n<answer>10240</answer>"
+  ],
+  [
+    "Could you convert 3 kg to its corresponding value in gram?",
+    3000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 3 \u00d7 1000 = 3000 grams\n<answer>3000.0</answer>"
+  ],
+  [
+    "How many mL is 5 L?",
+    5000.000000000001,
+    "assistant\n1 liter = 1000 milliliters\nSo, 5 \u00d7 1000 = 5000\n<answer>5000.0</answer>"
+  ],
+  [
+    "What is the equivalent of 10 mph in kmh?",
+    16.093439999999998,
+    "assistant\n1 mile per hour = 1.60934 kilometers per hour\nSo, 10 \u00d7 1.60934 = 16.0934\n<answer>16"
+  ],
+  [
+    "What is the equivalent of 3 m**3 in gallon?",
+    792.516157074445,
+    "assistant\n1 cubic meter = 264.172 gallons\nSo, 3 \u00d7 264.172 = 792.516 gallons\n<answer>792.5"
+  ],
+  [
+    "What does 7 quart equal in pint terms?",
+    14.0,
+    "assistant\n1 quart = 2 pints\nSo, 7 \u00d7 2 = 14\n<answer>14</answer>"
+  ],
+  [
+    "How much is 9 decade when converted to month?",
+    1080.0,
+    "assistant\n1 decade = 10 years\n1 year = 12 months\nSo, 9 \u00d7 10 \u00d7 12 = 1080 months\n<answer>1080</answer>"
+  ],
+  [
+    "Convert the measurement of 8 G into MB.",
+    8000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\n8 \u00d7 1000 = 8000\n<answer>8000</answer>"
+  ],
+  [
+    "What is the conversion of 9 kmh to mph?",
+    5.592340730136007,
+    "assistant\n1 kilometer = 0.621371 miles per hour\nSo, 9 \u00d7 0.621371 = 5.5623\n<answer>5.56"
+  ],
+  [
+    "Convert 1 pound to ounce?",
+    16.0,
+    "assistant\n1 pound = 16 ounces\nSo, 1 \u00d7 16 = 16\n<answer>16</answer>"
+  ],
+  [
+    "How many KB make up 8 M?",
+    8000.0,
+    "assistant\n1 megabyte (MB) = 1024 kilobytes (KB)\nSo, 8 \u00d7 1024 = 8192\n<answer>8192.0"
+  ],
+  [
+    "Can you change 2 hour to its equivalent in min?",
+    120.0,
+    "assistant\n1 hour = 60 minutes\nSo, 2 \u00d7 60 = 120\n<answer>120</answer>"
+  ],
+  [
+    "Convert 5 m to cm?",
+    500.0,
+    "assistant\n1 meter = 100 centimeters\nSo, 5 \u00d7 100 = 500\n<answer>500</answer>"
+  ],
+  [
+    "What does 2 KB equal in B terms?",
+    2000.0,
+    "assistant\n1 kilobyte (KB) = 1024 bytes\nSo, 2 \u00d7 1024 = 2048 bytes\n<answer>2048</answer>"
+  ],
+  [
+    "What is the equivalent of 3 pound in kg?",
+    1.3607771100000001,
+    "assistant\n1 pound = 0.453592 kilograms\nSo, 3 \u00d7 0.453592 = 1.361376\n<answer>1.36"
+  ],
+  [
+    "Can you provide the conversion value from G to M for 4 units?",
+    4000.0,
+    "assistant\n1 giga = 1000 mega\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "Convert 2 tonne to kg?",
+    2000.0,
+    "assistant\n1 ton = 1000 kg\nSo, 2 \u00d7 1000 = 2000\n<answer>2000</answer>"
+  ],
+  [
+    "Convert the measurement of 1 ton into kg.",
+    1000.0,
+    "assistant\n1 ton = 1000 kilograms\nSo, 1 \u00d7 1000 = 1000\n<answer>1000.0</answer>"
+  ],
+  [
+    "Please convert 2 B into bit.",
+    16.0,
+    "assistant\n1 byte = 8 bits\nSo, 2 \u00d7 8 = 16\n<answer>16</answer>"
+  ],
+  [
+    "How much is 5 km when converted to mi?",
+    3.1068559611866697,
+    "assistant\n1 kilometer \u2248 0.62137 miles\nSo, 5 \u00d7 0.62137 = 3.10685\n<answer>3.1068"
+  ],
+  [
+    "What is the measurement of 8 MB when converted into kB?",
+    8000.0,
+    "assistant\n1 kilobyte = 1024 bytes\nSo, 8 \u00d7 1024 = 8192\n<answer>8192</answer>"
+  ],
+  [
+    "How many bit is 9 KB?",
+    72000.0,
+    "assistant\n1 kilobyte = 8,000 bits\nSo, 9 \u00d7 8,000 = 72,000\n<answer>72000.0</answer>"
+  ],
+  [
+    "What is the equivalent of 5 gallon in l?",
+    18.927058920000007,
+    "assistant\n1 gallon \u2248 3.78541 liters\nSo, 5 \u00d7 3.78541 = 18.92705\n<answer>18.92"
+  ],
+  [
+    "Convert 7 century to decade?",
+    70.0,
+    "assistant\n1 century = 10 decades\nSo, 7 \u00d7 10 = 70\n<answer>70</answer>"
+  ],
+  [
+    "Could you convert 5 km/h to its corresponding value in mi/h?",
+    3.10685596118667,
+    "assistant\n1 kilometer = 0.621371 miles\n5 \u00d7 0.621371 = 3.106855 miles per hour\n<answer>3.10"
+  ],
+  [
+    "Can you provide the conversion value from h to second for 2 units?",
+    7200.0,
+    "assistant\n1 hour \u2248 3600 seconds\nSo, 2 \u00d7 3600 = 7200 seconds\n<answer>7200</answer>"
+  ],
+  [
+    "Convert 6 miles to ft?",
+    31680.0,
+    "assistant\n1 mile = 5280 feet\nSo, 6 \u00d7 5280 = 31,680\n<answer>31680</answer>"
+  ],
+  [
+    "Please convert 5 G into M.",
+    5000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "Can you change 6 week to its equivalent in h?",
+    1008.0,
+    "assistant\n1 week = 7 days\n1 hour = 24 minutes\nSo, 6 \u00d7 7 \u00d7 24 = 1008\n<answer>1008</answer>"
+  ],
+  [
+    "Could you give the conversion from pound to gram for 10 units?",
+    4535.9237,
+    "assistant\n1 pound = 453.592 grams\nSo, 10 \u00d7 453.592 = 4535.92\n<answer>4535.9"
+  ],
+  [
+    "What is the measurement of 9 kmh when converted into mi/h?",
+    5.592340730136007,
+    "assistant\n1 kilometer per hour = 0.621 miles per hour\nSo, 9 \u00d7 0.621 = 5.599\n<answer>5.599</answer>"
+  ],
+  [
+    "How many cm**3 are there per 8 ml?",
+    7.999999999999998,
+    "assistant\n1 milliliter = 1 centimeter squared (cm^3)\nSo, 8 \u00d7 1 = 8\n<answer>8</answer>"
+  ],
+  [
+    "Convert 10 metric ton to kg?",
+    10000.0,
+    "assistant\n1 metric ton = 1000 kilograms\nSo, 10 \u00d7 1000 = 10000 kilograms\n<answer>10000</answer>"
+  ],
+  [
+    "How do we translate 4 pound into gram?",
+    1814.36948,
+    "assistant\n1 pound = 453.592 grams\nSo, 4 \u00d7 453.592 = 1814.368 grams\n<answer>1814."
+  ],
+  [
+    "Convert 1 century to week?",
+    5217.745696874999,
+    "assistant\n1 year = 52 weeks\n1 century = 100 years\nSo, 100 \u00d7 52 \u2248 5200 weeks\n<answer>5200</answer>"
+  ],
+  [
+    "How does 2 m^3 measure up in terms of liter?",
+    2000.0,
+    "assistant\n1 m^3 = 1000 liters\nSo, 2 \u00d7 1000 = 2000 liters\n<answer>2000.0</answer>"
+  ],
+  [
+    "Convert 9 kg to ounce?",
+    317.4656575462237,
+    "assistant\n1 kilogram = 35.27 ounces\nSo, 9 \u00d7 35.27 = 318.43 ounces\n<answer>318.43</answer>"
+  ],
+  [
+    "Convert 5 ft/s to in/s?",
+    60.0,
+    "assistant\n1 foot per second = 12 inches per second\nSo, 5 \u00d7 12 = 60\n<answer>60</answer>"
+  ],
+  [
+    "Could you give the conversion from mph to km/h for 4 units?",
+    6.4373759999999995,
+    "assistant\n1 mile per hour = 1.60934 kilometers per hour\nSo, 4 \u00d7 1.60934 = 6.43736\n<answer>6.4"
+  ],
+  [
+    "How much is 4 m when converted to yd?",
+    4.37445319335083,
+    "assistant\n1 meter \u2248 1.09361 yards\nSo, 4 \u00d7 1.09361 = 4.37444 yards\n<answer>4.374"
+  ],
+  [
+    "How many mi/h is 4 kmh?",
+    2.4854847689493362,
+    "assistant\n1 kilometer per hour = 0.62137 miles per hour\nSo, 4 \u00d7 0.62137 = 2.48548\n<answer>2.4"
+  ],
+  [
+    "Can you change 9 metric ton to its equivalent in kg?",
+    9000.0,
+    "assistant\n1 metric ton = 1000 kilograms\nSo, 9 \u00d7 1000 = 9000 kilograms\n<answer>9000.0</answer>"
+  ],
+  [
+    "Can you provide the conversion value from years to week for 7 units?",
+    365.24219878125,
+    "assistant\n1 year = 52.1776 weeks\nSo, 7 \u00d7 52.1776 = 365.2332 weeks\n<answer>365.2"
+  ],
+  [
+    "How many ft is 8 miles?",
+    42240.0,
+    "assistant\n1 mile = 5280 feet\nSo, 8 \u00d7 5280 = 42240\n<answer>42240</answer>"
+  ],
+  [
+    "How do we express 8 mi in terms of m?",
+    12874.752,
+    "assistant\n1 mile = 1609.34 meters\nSo, 8 \u00d7 1609.34 = 12874.32 meters\n<answer>12874"
+  ],
+  [
+    "How many ounce make up 10 kg?",
+    352.7396194958041,
+    "assistant\n1 kilogram (kg) = 35.274 ounces (oz)\nSo, 10 \u00d7 35.274 = 352.74\n<answer>352"
+  ],
+  [
+    "Can you change 7 month to its equivalent in days?",
+    213.0579492890625,
+    "assistant\n1 month \u2248 30 days\nSo, 7 \u00d7 30 = 210 days\n<answer>210</answer>"
+  ],
+  [
+    "What is the equivalent of 2 pint in l?",
+    0.9463529460000003,
+    "assistant\n1 pt = 0.473176 l\nSo, 2 \u00d7 0.473176 = 0.946352 l\n<answer>0.9"
+  ],
+  [
+    "Please convert 9 kB into byte.",
+    9000.0,
+    "assistant\n1 kilobyte (KB) is equal to 1000 bytes\nSo, 9 \u00d7 1000 = 9000\n<answer>9000</answer>"
+  ],
+  [
+    "What is the equivalent of 9 pint in ounce?",
+    144.0,
+    "assistant\n1 pint = 16 ounces\nSo, 9 \u00d7 16 = 144 ounces\n<answer>144</answer>"
+  ],
+  [
+    "What is the conversion of 5 L to cc?",
+    4999.999999999999,
+    "assistant\n1 liter = 1000 cubic centimeters (or mL)\nSo, 5 \u00d7 1000 = 5000\n<answer>5000.0</answer>"
+  ],
+  [
+    "How does 5 GB measure up in terms of M?",
+    5000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 5 \u00d7 1000 = 5000 megabytes\n<answer>5000</answer>"
+  ],
+  [
+    "Convert the measurement of 6 mph into kmh.",
+    9.656063999999999,
+    "assistant\n1 mile = 1.609344 kilometers\nSo, 6 \u00d7 1.609344 = 9.655064\n<answer>9.65"
+  ],
+  [
+    "What is the conversion from ounce to g for 9 units?",
+    255.145708125,
+    "assistant\n1 ounce = 28.3496 grams\nSo, 9 \u00d7 28.3496 = 255.1464 grams\n<answer>255.1"
+  ],
+  [
+    "Please convert 8 months into h.",
+    5843.875180499999,
+    "assistant\n1 month \u2248 730.484 hours\nSo, 8 \u00d7 730.484 = 5843.9472\n<answer>5843"
+  ],
+  [
+    "What is the equivalent of 8 in in cm?",
+    20.32,
+    "assistant\n1inch = 2.54 centimeters\nSo, 8 inches \u00d7 2.54 = 20.32 centimeters\n<answer>20.32</answer>"
+  ],
+  [
+    "How do we translate 6 gallon into pint?",
+    48.0,
+    "assistant\n1 gallon = 8 pints\nSo, 6 \u00d7 8 = 48 pints\n<answer>48</answer>"
+  ],
+  [
+    "How do we express 6 KB in terms of byte?",
+    6000.0,
+    "assistant\n1 KB = 1024 bytes\nSo, 6 \u00d7 1024 = 6096 bytes\n<answer>6096</answer>"
+  ],
+  [
+    "Convert the measurement of 2 kg into g.",
+    2000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 2 \u00d7 1000 = 2000 grams\n<answer>2000.0</answer>"
+  ],
+  [
+    "Can you provide the conversion value from gallon to liter for 9 units?",
+    34.06870605600001,
+    "assistant\n1 gallon \u2248 3.78541 liters\nSo, 9 \u00d7 3.78541 \u2248 34.06969\n<answer>34.0"
+  ],
+  [
+    "How do we express 6 pound in terms of gram?",
+    2721.55422,
+    "assistant\n1 pound = 453.592 grams\nSo, 6 \u00d7 453.592 = 2721.552\n<answer>2721.5"
+  ],
+  [
+    "How do we translate 9 KB into byte?",
+    9000.0,
+    "assistant\n1 kilobyte (KB) = 1000 bytes\nSo, 9 \u00d7 1000 = 9000 bytes\n<answer>9000</answer>"
+  ],
+  [
+    "Can you provide the conversion value from metric ton to kg for 3 units?",
+    3000.0,
+    "assistant\n1 metric ton = 1000 kilograms\nSo, 3 \u00d7 1000 = 3000\n<answer>3000.0</answer>"
+  ],
+  [
+    "How many weeks is 8 decades?",
+    4174.1965574999995,
+    "assistant\n1 decade = 10 years\n1 year = 52 weeks\nSo, 8 \u00d7 10 \u00d7 52 = 4160\n<answer>4160</answer>"
+  ],
+  [
+    "Tell me how many mL are there in 2 litre.",
+    2000.0000000000002,
+    "assistant\n1 litre = 1000 millilitres\nSo, 2 \u00d7 1000 = 2000 millilitres\n<answer>2000</answer>"
+  ],
+  [
+    "What is 1 liter in fluid ounce?",
+    33.81402270184299,
+    "assistant\n1 liter = 33.814 fluid ounces\nSo, 1 \u00d7 33.814 = 33.814\n<answer>33.814</answer>"
+  ],
+  [
+    "Convert the measurement of 10 km into miles.",
+    6.2137119223733395,
+    "assistant\n1 kilometer \u2248 0.621371 miles\nSo, 10 \u00d7 0.621371 = 6.21371\n<answer>6.2"
+  ],
+  [
+    "Can you provide the conversion value from L to cc for 5 units?",
+    4999.999999999999,
+    "assistant\n1 liter = 1000 cubic centimeters\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "Convert 10 in to cm?",
+    25.4,
+    "assistant\n1 inch = 2.54 centimeters\nSo, 10 \u00d7 2.54 = 25.4 centimeters\n<answer>25.4</answer>"
+  ],
+  [
+    "How many M make up 10 G?",
+    10000.0,
+    "assistant\n1 gigameter = 1000 megameters\nSo, 10 \u00d7 1000 = 10,000\n<answer>10000</answer>"
+  ],
+  [
+    "Convert the measurement of 2 cm**3 into ml.",
+    2.0000000000000004,
+    "assistant\n1 centimetre = 10 millimetres\n1 millilitre = 1 cubic centimetre\nSo, 2 \u00d7 10 \u00d7 1 = 20 millilitres\n<answer>2"
+  ],
+  [
+    "What is the measurement of 5 min when converted into sec?",
+    300.0,
+    "assistant\n1 minute = 60 seconds\nSo, 5 \u00d7 60 = 300 seconds\n<answer>300.0</answer>"
+  ],
+  [
+    "Can you change 4 MB to its equivalent in kB?",
+    4000.0,
+    "assistant\n1 kilobyte = 1000 bytes\nSo, 4 \u00d7 1000 = 4000\n<answer>4000.0</answer>"
+  ],
+  [
+    "How much is 4 week when converted to hour?",
+    672.0,
+    "assistant\n1 week = 7 days = 7 \u00d7 24 hours = 168 hours\nSo, 4 \u00d7 168 = 672\n<answer>672</answer>"
+  ],
+  [
+    "Express 8 miles as a quantity of yd.",
+    14079.999999999998,
+    "assistant\n1 mile = 1760 yards\nSo, 8 \u00d7 1760 = 13720\n<answer>13720</answer>"
+  ],
+  [
+    "How do we express 7 cm in terms of in?",
+    2.755905511811023,
+    "assistant\n1 inch = 2.54 centimeters\nSo, 7 / 2.54 = 2.75591 inch\n<answer>2.75591</answer>"
+  ],
+  [
+    "What does 4 GB equal in M terms?",
+    4000.0,
+    "assistant\n1 gigabyte (GB) equals 1000 megabytes (MB)\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "Express 10 KB as a quantity of byte.",
+    10000.0,
+    "assistant\n1 kilobyte = 1024 bytes\nSo, 10 \u00d7 1024 = 10240 bytes\n<answer>10240</answer>"
+  ],
+  [
+    "How many in make up 7 yd?",
+    252.0,
+    "assistant\n7 yards = 21 feet\n1 foot = 12 inches\n21 \u00d7 12 = 252\n<answer>252</answer>"
+  ],
+  [
+    "Could you give the conversion from ft to cm for 10 units?",
+    304.8,
+    "assistant\n1 foot = 30.48 centimeters\nSo, 10 \u00d7 30.48 = 304.8 centimeters\n<answer>304.8</answer>"
+  ],
+  [
+    "Tell me how many kB are there in 1 M.",
+    1000.0,
+    "assistant\n1 megabyte = 1000 kilobytes\nSo, 1 \u00d7 1000 = 1000\n<answer>1000.0</answer>"
+  ],
+  [
+    "How does 3 kB measure up in terms of bit?",
+    24000.0,
+    "assistant\n1 byte = 8 bits\nSo, 3 kB = 3000 bytes = 3000 \u00d7 8 = 24000 bits\n<answer>24000"
+  ],
+  [
+    "How many byte is 5 KB?",
+    5000.0,
+    "assistant\n1 kilobyte (KB) = 1000 bytes\nSo, 5 \u00d7 1000 = 5000 bytes\n<answer>5000</answer>"
+  ],
+  [
+    "What is the equivalent of 6 in in mm?",
+    152.4,
+    "assistant\n1 inch = 25.4 millimeters\nSo, 6 \u00d7 25.4 = 152.4\n<answer>152.4</answer>"
+  ],
+  [
+    "How many km is 9 miles?",
+    14.484096000000001,
+    "assistant\n1 mile = 1.60934 kilometers\nSo, 9 \u00d7 1.60934 = 14.66406 kilometers\n<answer>14.66"
+  ],
+  [
+    "Could you provide the value of 1 ounce in gram?",
+    28.349523125,
+    "assistant\n1 ounce = 28.3495 grams\nSo, 1 \u00d7 28.3495 = 28.3495\n<answer>28.3495"
+  ],
+  [
+    "What is the conversion from mi to meter for 9 units?",
+    14484.096000000001,
+    "assistant\n1 mile = 1609.34 meters\nSo, 9 \u00d7 1609.34 = 14484.06 meters\n<answer>14484"
+  ],
+  [
+    "Tell me how many milliliter are there in 8 cc.",
+    8.000000000000002,
+    "assistant\n1 cc = 1 milliliter\nSo, 8 = 8\n<answer>8</answer>"
+  ],
+  [
+    "How many g are there per 5 kg?",
+    5000.0,
+    "assistant\n1 kg = 1000 grams\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "What does 4 kg equal in ounce terms?",
+    141.09584779832164,
+    "assistant\n1 kilogram \u2248 35.27 ounces\nSo, 4 \u00d7 35.27 \u2248 141.08\n<answer>141.08</answer>"
+  ],
+  [
+    "Could you convert 1 mi to its corresponding value in meter?",
+    1609.344,
+    "assistant\n1 mile = 1609.344 meters\nSo, 1 \u00d7 1609.344 = 1609.344\n<answer>1609"
+  ],
+  [
+    "Can you change 1 MB to its equivalent in kB?",
+    1000.0,
+    "assistant\nTo convert megabytes to kilobytes:\n1 MB = 1024 kB\n<answer>1024.0</answer>"
+  ],
+  [
+    "Can you change 10 byte to its equivalent in bit?",
+    80.0,
+    "assistant\n1 byte = 8 bits\nSo, 10 \u00d7 8 = 80 bits\n<answer>80</answer>"
+  ],
+  [
+    "Can you change 6 m to its equivalent in in?",
+    236.22047244094483,
+    "assistant\n1 meter \u2248 39.3701 inches\nSo, 6 \u00d7 39.3701 = 238.0406\n<answer>238.0"
+  ],
+  [
+    "Convert the measurement of 6 h into minute.",
+    360.0,
+    "assistant\nThere are 60 minutes in 1 hour\nSo, 6 \u00d7 60 = 360 minutes\n<answer>360</answer>"
+  ],
+  [
+    "Convert the measurement of 3 bit into B.",
+    0.375,
+    "assistant\n1 bit = 1/8 byte\nSo, 3 \u00d7 (1/8) = 0.375\n<answer>0.375</answer>"
+  ],
+  [
+    "How many MB make up 1 GB?",
+    1000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 1 GB = 1 \u00d7 1000 MB = 1000 MB\n<answer>1000</answer>"
+  ],
+  [
+    "How many meter are there per 3 mi?",
+    4828.032,
+    "assistant\n1 mile = 1609.34 meters\nSo, 3 \u00d7 1609.34 = 4828.02 meters\n<answer>4828.0"
+  ],
+  [
+    "What is 4 miles in km?",
+    6.437376,
+    "assistant\n1 mile = 1.609344 kilometers\nSo, 4 \u00d7 1.609344 = 6.437376 kilometers\n<answer>6.4"
+  ],
+  [
+    "What is 6 cm^3 in ml?",
+    6.000000000000002,
+    "assistant\n1 cubic centimeter (cm^3) = 1 mL\nSo, 6 cm^3 = 6 mL\n<answer>6</answer>"
+  ],
+  [
+    "What is the conversion of 10 bit to byte?",
+    1.25,
+    "assistant\n1 bit = 0.125 byte\nSo, 10 \u00d7 0.125 = 1.25\n<answer>1.25</answer>"
+  ],
+  [
+    "Tell me how many ft are there in 6 yd.",
+    18.0,
+    "assistant\n1 yard = 3 feet\nSo, 6 \u00d7 3 = 18\n<answer>18</answer>"
+  ],
+  [
+    "Could you provide the value of 4 G in MB?",
+    4000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 4 \u00d7 1000 = 4000 megabytes\n<answer>4000</answer>"
+  ],
+  [
+    "Express 5 pound as a quantity of gram.",
+    2267.96185,
+    "assistant\n1 pound = 453.592 grams\nSo, 5 \u00d7 453.592 = 2267.96 grams\n<answer>2267.9"
+  ],
+  [
+    "What is the equivalent of 10 century in year?",
+    1000.0,
+    "assistant\n1 century = 100 years\nSo, 10 \u00d7 100 = 1000 years\n<answer>1000</answer>"
+  ],
+  [
+    "What is 5 mi/h in m/s?",
+    2.2352,
+    "assistant\n1 mile per hour = 0.44704 meters per second\nSo, 5 \u00d7 0.44704 = 2.2352\n<answer>2.23"
+  ],
+  [
+    "How do we translate 4 miles into m?",
+    6437.376,
+    "assistant\n1 mile = 1609.34 meters\nSo, 4 \u00d7 1609.34 = 6437.36 meters\n<answer>6437.3"
+  ],
+  [
+    "Could you give the conversion from byte to bit for 2 units?",
+    16.0,
+    "assistant\n1 byte = 8 bits\nSo, 2 \u00d7 8 = 16\n<answer>16</answer>"
+  ],
+  [
+    "Can you change 9 liter to its equivalent in ounce?",
+    304.3262043165869,
+    "assistant\n1 liter = 33.814 fluid ounces\nSo, 9 \u00d7 33.814 = 304.83\n<answer>304.83</answer>"
+  ],
+  [
+    "How does 2 kB measure up in terms of B?",
+    2000.0,
+    "assistant\n1 kilobyte (KB) = 1000 bytes\nSo, 2 \u00d7 1000 = 2000 bytes\n<answer>2000</answer>"
+  ],
+  [
+    "What is the measurement of 7 century when converted into decade?",
+    70.0,
+    "assistant\n1 century = 10 decades\nSo, 7 \u00d7 10 = 70\n<answer>70</answer>"
+  ],
+  [
+    "Can you change 4 M to its equivalent in KB?",
+    4000.0,
+    "assistant\n1 megabyte = 1000 kilobites\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "Could you give the conversion from kB to B for 9 units?",
+    9000.0,
+    "assistant\n1 kilobyte (kB) = 1000 bytes\nSo, 9 \u00d7 1000 = 9000 bytes\n<answer>9000</answer>"
+  ],
+  [
+    "How do we translate 1 days into weeks?",
+    0.14285714285714285,
+    "assistant\n1 week = 7 days\nSo, 1 day / 7 days = 0.142857142857\n<answer>0.14285714"
+  ],
+  [
+    "How many cm is 8 yd?",
+    731.5200000000001,
+    "assistant\n1 yard = 91.44 centimeters\nSo, 8 \u00d7 91.44 = 731.52\n<answer>731.52</answer>"
+  ],
+  [
+    "Convert 1 year to days?",
+    365.24219878125,
+    "assistant\n1 year = 365 days (assuming a non-leap year)\nSo, 1 \u00d7 365 = 365\n<answer>365</answer>"
+  ],
+  [
+    "Express 3 pound as a quantity of ounce.",
+    48.0,
+    "assistant\n1 pound = 16 ounces\nSo, 3 \u00d7 16 = 48\n<answer>48</answer>"
+  ],
+  [
+    "How many month are there per 5 decades?",
+    600.0,
+    "assistant\n1 decade = 10 years\n1 year = 12 months\nSo, 5 \u00d7 12 \u00d7 10 = 600 months\n<answer>600</answer>"
+  ],
+  [
+    "What is the measurement of 7 G when converted into M?",
+    7000.0,
+    "assistant\n1 gigameter = 1000 kilometers\nSo, 7 \u00d7 1000 = 7000\n<answer>7000</answer>"
+  ],
+  [
+    "Please convert 6 miles into m.",
+    9656.064,
+    "assistant\n1 mile = 1609.34 meters\nSo, 6 \u00d7 1609.34 = 9655.04\n<answer>9655.04"
+  ],
+  [
+    "How does 1 m**3 measure up in terms of litre?",
+    1000.0,
+    "assistant\n1 cubic metre = 1000 litres\nSo, 1 \u00d7 1000 = 1000\n<answer>1000</answer>"
+  ],
+  [
+    "Could you convert 3 mph to its corresponding value in ft/s?",
+    4.3999999999999995,
+    "assistant\n1 mile per hour = 1.46667 feet per second\nSo, 3 \u00d7 1.46667 \u2248 4.4 feet per second\n<answer>4.4"
+  ],
+  [
+    "How many KB make up 4 MB?",
+    4000.0,
+    "assistant\n1 megabyte = 1024 kilobytes\nSo, 4 \u00d7 1024 = 4096\n<answer>4096.0</answer>"
+  ],
+  [
+    "Could you convert 10 km to its corresponding value in meter?",
+    10000.0,
+    "assistant\n1 kilometer = 1000 meters\nSo, 10 \u00d7 1000 = 10000\n<answer>10000</answer>"
+  ],
+  [
+    "What is the conversion from m to ft for 6 units?",
+    19.685039370078737,
+    "assistant\n1 meter \u2248 3.28084 feet\nSo, 6 \u00d7 3.28084 = 19.68484\n<answer>19.68"
+  ],
+  [
+    "What is the measurement of 2 mi when converted into ft?",
+    10560.0,
+    "assistant\n1 mile = 5280 feet\nSo, 2 \u00d7 5280 = 10560\n<answer>10560</answer>"
+  ],
+  [
+    "Can you change 4 kg to its equivalent in ounce?",
+    141.09584779832164,
+    "assistant\n1 kg = 35.274 ounces\nSo, 4 \u00d7 35.274 = 141.096\n<answer>141</answer>"
+  ],
+  [
+    "Convert the measurement of 3 m into mm.",
+    3000.0,
+    "assistant\n1 meter = 1000 millimeters\nSo, 3 \u00d7 1000 = 3000\n<answer>3000</answer>"
+  ],
+  [
+    "How does 8 in measure up in terms of cm?",
+    20.32,
+    "assistant\n1 inch = 2.54 centimeters\nSo, 8 \u00d7 2.54 = 20.32 centimeters\n<answer>20.32</answer>"
+  ],
+  [
+    "What does 1 liter equal in mL terms?",
+    1000.0000000000001,
+    "assistant\n1000 milliliters in 1 liter\nSo, 1 \u00d7 1000 = 1000\n<answer>1000</answer>"
+  ],
+  [
+    "Could you give the conversion from pound to gram for 6 units?",
+    2721.55422,
+    "assistant\n1 pound = 453.592 grams\nSo, 6 \u00d7 453.592 = 2721.552\n<answer>2721.5"
+  ],
+  [
+    "What is the measurement of 5 yd when converted into meter?",
+    4.572000000000001,
+    "assistant\n1 yard = 0.9144 meters\nSo, 5 \u00d7 0.9144 = 4.572\n<answer>4.572</answer>"
+  ],
+  [
+    "How do we translate 9 ounce into gram?",
+    255.145708125,
+    "assistant\n1 ounce = 28.3495 grams\nSo, 9 \u00d7 28.3495 = 255.1455 grams\n<answer>255.1"
+  ],
+  [
+    "What is the measurement of 10 km when converted into mi?",
+    6.2137119223733395,
+    "assistant\n1 kilometer \u2248 0.621371 miles\nSo, 10 \u00d7 0.621371 = 6.21371 miles\n<answer>6."
+  ],
+  [
+    "What is 4 pound in g?",
+    1814.36948,
+    "assistant\n1 pound = 453.592 grams\nSo, 4 \u00d7 453.592 = 1814.368\n<answer>1814.3"
+  ],
+  [
+    "What is the equivalent of 1 GB in MB?",
+    1000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 1 GB = 1000 \u00d7 1 GB = 1000 MB\n<answer>1000</answer>"
+  ],
+  [
+    "What is the conversion of 1 cm^3 to mm**3?",
+    1000.0000000000001,
+    "assistant\n1 centimeter = 10 millimeters\nSo, 1 centimeter^3 = 10^3 mm^3 = 1000 mm^3\n<answer>1000.0</answer>"
+  ],
+  [
+    "Please convert 6 mi into km.",
+    9.656064,
+    "assistant\n1 mile = 1.609344 kilometers\nSo, 6 \u00d7 1.609344 = 9.656064 km\n<answer>9.6"
+  ],
+  [
+    "What is the equivalent of 10 kg in gram?",
+    10000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 10 \u00d7 1000 = 10000\n<answer>10000</answer>"
+  ],
+  [
+    "Can you provide the conversion value from B to bit for 4 units?",
+    32.0,
+    "assistant\n1 byte = 8 bits\nSo, 4 \u00d7 8 = 32\n<answer>32</answer>"
+  ],
+  [
+    "Can you provide the conversion value from weeks to hour for 8 units?",
+    1344.0,
+    "assistant\n1 week = 168 hours\nSo, 8 \u00d7 168 = 1344\n<answer>1344</answer>"
+  ],
+  [
+    "How do we translate 9 B into bit?",
+    72.0,
+    "assistant\n1 byte = 8 bits\nSo, 9 \u00d7 8 = 72\n<answer>72</answer>"
+  ],
+  [
+    "How do we express 8 decade in terms of year?",
+    80.0,
+    "assistant\n1 decade = 10 years\nSo, 8 decade = 8 \u00d7 10 = 80 years\n<answer>80</answer>"
+  ],
+  [
+    "How do we translate 1 L into ounce?",
+    33.81402270184299,
+    "assistant\n1 liter is equivalent to 33.814 US fluid ounces.\nSo, 1 liter \u00d7 33.814 = 33.814 ounces\n<answer>33."
+  ],
+  [
+    "Could you provide the value of 4 miles in ft?",
+    21120.0,
+    "assistant\n1 mile = 5280 feet\nSo, 4 \u00d7 5280 = 21120\n<answer>21120.0</answer>"
+  ],
+  [
+    "How do we express 7 km in terms of m?",
+    7000.0,
+    "assistant\n1 kilometer = 1000 meters\nSo, 7 \u00d7 1000 = 7000 meters\n<answer>7000.0</answer>"
+  ],
+  [
+    "What is the measurement of 8 mi/h when converted into m/s?",
+    3.57632,
+    "assistant\n1 mile per hour = 0.44704 meters per second\nSo, 8 \u00d7 0.44704 = 3.56832\n<answer>3.5"
+  ],
+  [
+    "What is the conversion of 4 liter to cc?",
+    3999.9999999999995,
+    "assistant\n1 liter \u2248 1000 cubic centimeters\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "What is the equivalent of 5 century in decades?",
+    50.0,
+    "assistant\n1 century = 10 decades\nSo, 5 \u00d7 10 = 50\n<answer>50</answer>"
+  ],
+  [
+    "What does 1 m/s equal in mi/h terms?",
+    2.2369362920544025,
+    "assistant\n1 meter per second (m/s) = 2.23694 mph\n<answer>2.23694</answer>"
+  ],
+  [
+    "Could you convert 4 litre to its corresponding value in milliliter?",
+    4000.0000000000005,
+    "assistant\n1 liter = 1000 milliliters\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "How does 8 ton measure up in terms of pound?",
+    17636.980974790207,
+    "assistant\n1 long ton = 2240 pounds\nSo, 8 \u00d7 2240 = 18160\n<answer>18160</answer>"
+  ],
+  [
+    "What is the conversion of 7 liter to cm**3?",
+    6999.999999999999,
+    "assistant\n1 liter = 1000 cubic centimeters\nSo, 7 \u00d7 1000 = 7000 cm\u00b3\n<answer>7000.0</answer>"
+  ],
+  [
+    "What is 9 bit in B?",
+    1.125,
+    "assistant\n1 byte = 8 bits\nSo, 9 \u00f7 8 = 1.125\n<answer>1.125</answer>"
+  ],
+  [
+    "How many ounce are there per 2 pound?",
+    32.0,
+    "assistant\n1 pound = 16 oz\nSo, 2 \u00d7 16 = 32 oz\n<answer>32</answer>"
+  ],
+  [
+    "Could you convert 10 m/s to its corresponding value in ft/s?",
+    32.80839895013123,
+    "assistant\n1 meter/second = 3.28084 feet/second\nSo, 10 \u00d7 3.28084 = 32.8084\n<answer>32"
+  ],
+  [
+    "What is the measurement of 6 meter when converted into in?",
+    236.22047244094483,
+    "assistant\n1 meter = 39.3701 inches\nSo, 6 \u00d7 39.3701 = 238.0806\n<answer>238.08"
+  ],
+  [
+    "Convert 5 GB to M?",
+    5000.0,
+    "assistant\n1 gigabyte = 1024 megabytes\nSo, 5 \u00d7 1024 = 5120\n<answer>5120</answer>"
+  ],
+  [
+    "What is the equivalent of 10 km in m?",
+    10000.0,
+    "assistant\n1 kilometer = 1000 meters\nSo, 10 \u00d7 1000 = 10000\n<answer>10000</answer>"
+  ],
+  [
+    "Please convert 2 pound into ounce.",
+    32.0,
+    "assistant\n1 pound = 16 ounces\nSo, 2 \u00d7 16 = 32\n<answer>32</answer>"
+  ],
+  [
+    "How does 7 ounce measure up in terms of g?",
+    198.44666187500002,
+    "assistant\n1 ounce = 28.3495 grams\nSo, 7 \u00d7 28.3495 = 199.4465\n<answer>199.44"
+  ],
+  [
+    "Could you give the conversion from decade to years for 9 units?",
+    90.0,
+    "assistant\n1 decade = 10 years\nSo, 9 \u00d7 10 = 90\n<answer>90</answer>"
+  ],
+  [
+    "What does 9 kB equal in byte terms?",
+    9000.0,
+    "assistant\n1 kilobyte (KB) = 1000 bytes\nSo, 9 \u00d7 1000 = 9000 bytes\n<answer>9000</answer>"
+  ],
+  [
+    "Tell me how many m/s are there in 6 ft/s.",
+    1.8288000000000002,
+    "assistant\n1 foot per second = 0.3048 meters per second\nSo, 6 \u00d7 0.3048 = 1.8288\n<answer>1.8288"
+  ],
+  [
+    "How many hour is 9 week?",
+    1512.0,
+    "assistant\n1 week = 7 days = 7 \u00d7 24 = 168 hours\nSo, 9 \u00d7 168 = 1512\n<answer>1512</answer>"
+  ],
+  [
+    "Can you change 7 KB to its equivalent in byte?",
+    7000.0,
+    "assistant\n1 kilobyte (KB) = 1000 bytes\nSo, 7 \u00d7 1000 = 7000\n<answer>7000</answer>"
+  ],
+  [
+    "How much is 2 weeks when converted to hour?",
+    336.0,
+    "assistant\n1 week = 168 hours\nSo, 2 \u00d7 168 = 336 hours\n<answer>336</answer>"
+  ],
+  [
+    "How many B are there per 10 bit?",
+    1.25,
+    "assistant\n1 byte = 8 bits\nSo, 10 bits / 8 = 1.25\n<answer>1.25</answer>"
+  ],
+  [
+    "Could you convert 1 kg to its corresponding value in pound?",
+    2.2046226218487757,
+    "assistant\n1 kilogram = 2.20462262185 pounds\n<answer>2.20462262185</answer>"
+  ],
+  [
+    "Could you provide the value of 6 kg in gram?",
+    6000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 6 \u00d7 1000 = 6000\n<answer>6000</answer>"
+  ],
+  [
+    "How many gram make up 3 kg?",
+    3000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 3 \u00d7 1000 = 3000 grams\n<answer>3000</answer>"
+  ],
+  [
+    "What is 2 metric ton in pound?",
+    4409.245243697552,
+    "assistant\n1 metric ton = 2204.62 pounds\nSo, 2 \u00d7 2204.62 = 4409.24\n<answer>4409.2"
+  ],
+  [
+    "Express 6 cm**3 as a quantity of ml.",
+    6.000000000000002,
+    "assistant\n1 cm\u00b3 = 1 mL\nSo, 6 \u00d7 1 = 6 mL\n<answer>6</answer>"
+  ],
+  [
+    "Convert the measurement of 7 M into kB.",
+    7000.0,
+    "assistant\n1 kilobyte = 1024 bytes\nSo, 7 \u00d7 1024 = 7168\n<answer>7168</answer>"
+  ],
+  [
+    "How do we translate 10 KB into byte?",
+    10000.0,
+    "assistant\n1 kilobyte (KB) = 1024 bytes\nSo, 10 \u00d7 1024 = 10240\n<answer>10240</answer>"
+  ],
+  [
+    "Convert 6 pound to ounce?",
+    96.0,
+    "assistant\n1 pound = 16 ounces\nSo, 6 \u00d7 16 = 96\n<answer>96</answer>"
+  ],
+  [
+    "Can you change 4 miles to its equivalent in m?",
+    6437.376,
+    "assistant\n1 mile = 1609.34 meters\nSo, 4 \u00d7 1609.34 = 6437.36 meters\n<answer>6437.3"
+  ],
+  [
+    "Please convert 2 byte into bit.",
+    16.0,
+    "assistant\n1 byte = 8 bits\nSo, 2 \u00d7 8 = 16\n<answer>16</answer>"
+  ],
+  [
+    "What is the conversion of 8 millilitre to cc?",
+    7.999999999999998,
+    "assistant\n1 milliliter = 1 cubic centimeter (cc)\nSo, 8 \u00d7 1 = 8\n<answer>8</answer>"
+  ],
+  [
+    "What is the equivalent of 5 century in year?",
+    500.0,
+    "assistant\n100 years = 1 century\nSo, 5 \u00d7 100 = 500 years\n<answer>500</answer>"
+  ],
+  [
+    "Could you convert 2 m to its corresponding value in in?",
+    78.74015748031495,
+    "assistant\n1 meter \u2248 39.3701 inches\nSo, 2 \u00d7 39.3701 = 78.7402\n<answer>78.740"
+  ],
+  [
+    "What is the measurement of 2 decades when converted into month?",
+    240.0,
+    "assistant\n1 decade = 10 years\nAnd 1 year = 12 months\nSo, 2 \u00d7 10 \u00d7 12 = 240 months\n<answer>240</answer>"
+  ],
+  [
+    "Please convert 6 bit into byte.",
+    0.75,
+    "assistant\n1 byte = 8 bits\nSo, 6 / 8 = 0.75\n<answer>0.75</answer>"
+  ],
+  [
+    "Please convert 6 mi into meter.",
+    9656.064,
+    "assistant\n1 mile = 1609.34 meters\nSo, 6 \u00d7 1609.34 \u2248 9656.04 meters\n<answer>9656."
+  ],
+  [
+    "Please convert 6 G into M.",
+    6000.0,
+    "assistant\n1 gigabyte (G) = 1000 megabytes (M)\nSo, 6 G \u00d7 1000 = 6000 M\n<answer>6000."
+  ],
+  [
+    "How does 10 B measure up in terms of bit?",
+    80.0,
+    "assistant\n1 byte = 8 bits\nSo, 10 \u00d7 8 = 80 bits\n<answer>80.0</answer>"
+  ],
+  [
+    "What is the equivalent of 7 km in miles?",
+    4.349598345661338,
+    "assistant\n1 kilometer \u2248 0.621371 miles\nSo, 7 \u00d7 0.621371 = 4.359697\n<answer>4.3"
+  ],
+  [
+    "How many cm^3 make up 4 l?",
+    3999.9999999999995,
+    "assistant\n1 liter = 1000 cm^3\nSo, 4 \u00d7 1000 = 4000 cm^3\n<answer>4000</answer>"
+  ],
+  [
+    "How many m/s are there per 8 ft/s?",
+    2.4384,
+    "assistant\n1 foot/second = 0.3048 meters/second\nSo, 8 \u00d7 0.3048 = 2.4384\n<answer>2.4384"
+  ],
+  [
+    "Please convert 7 KB into bit.",
+    56000.0,
+    "assistant\n1 kilobyte = 8,000 bits\nSo, 7 \u00d7 8,000 = 56,000 bits\n<answer>56000</answer>"
+  ],
+  [
+    "Can you change 10 m^3 to its equivalent in litre?",
+    10000.0,
+    "assistant\n1 cubic meter = 1000 liters\nSo, 10 \u00d7 1000 = 10000\n<answer>10000</answer>"
+  ],
+  [
+    "What is the conversion of 10 mi/h to in/s?",
+    175.99999999999997,
+    "assistant\n1 mile per hour = 17.6 feet per second\nSo, 10 \u00d7 17.6 = 176\n<answer>176</answer>"
+  ],
+  [
+    "Can you provide the conversion value from kg to g for 4 units?",
+    4000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "How do we translate 4 decades into day?",
+    14609.687951249998,
+    "assistant\n1 decade = 3652 days\nSo, 4 \u00d7 3652 = 14,608\n<answer>14608</answer>"
+  ],
+  [
+    "What does 4 meter equal in ft terms?",
+    13.123359580052492,
+    "assistant\n1 meter \u2248 3.28084 feet\nSo, 4 \u00d7 3.28084 = 13.12336\n<answer>13.12"
+  ],
+  [
+    "What is the equivalent of 9 kB in byte?",
+    9000.0,
+    "assistant\n1 kilobyte = 1000 bytes\nSo, 9 \u00d7 1000 = 9000\n<answer>9000</answer>"
+  ],
+  [
+    "How many m make up 9 km?",
+    9000.0,
+    "assistant\n1 kilometer = 1000 meters\nSo, 9 \u00d7 1000 = 9000\n<answer>9000</answer>"
+  ],
+  [
+    "Please convert 3 km into miles.",
+    1.8641135767120018,
+    "assistant\n1 kilometer \u2248 0.621371 miles\nSo, 3 \u00d7 0.621371 = 1.864113\n<answer>1.8"
+  ],
+  [
+    "Can you provide the conversion value from KB to bit for 10 units?",
+    80000.0,
+    "assistant\n1 kilobyte = 8,000 bits\nSo, 10 \u00d7 8,000 = 80,000 bits\n<answer>80000</answer>"
+  ],
+  [
+    "How much is 10 l when converted to millilitre?",
+    10000.000000000002,
+    "assistant\n1 liter = 1000 milliliters\nSo, 10 \u00d7 1000 = 10000\n<answer>10000</answer>"
+  ],
+  [
+    "What does 3 metric ton equal in kg terms?",
+    3000.0,
+    "assistant\n1 metric ton = 1000 kilograms\nSo, 3 \u00d7 1000 = 3000\n<answer>3000</answer>"
+  ],
+  [
+    "Can you change 7 meter to its equivalent in ft?",
+    22.96587926509186,
+    "assistant\n1 meter = 3.28084 feet\nSo, 7 \u00d7 3.28084 \u2248 23.03418\n<answer>23.03"
+  ],
+  [
+    "How many byte make up 7 kB?",
+    7000.0,
+    "assistant\n1 kilobyte (KB) = 1024 bytes\nSo, 7 \u00d7 1024 = 7148\n<answer>7148</answer>"
+  ],
+  [
+    "How do we translate 10 ton into kg?",
+    10000.0,
+    "assistant\n1 ton (t) = 1000 kg\nSo, 10 \u00d7 1000 = 10000\n<answer>10000</answer>"
+  ],
+  [
+    "What does 6 ft equal in yd terms?",
+    2.0,
+    "assistant\n1 yard = 3 feet\nSo, 6 / 3 = 2 yards\n<answer>2</answer>"
+  ],
+  [
+    "How many g are there per 3 kg?",
+    3000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 3 \u00d7 1000 = 3000 grams\n<answer>3000.0</answer>"
+  ],
+  [
+    "Could you give the conversion from decade to day for 10 units?",
+    36524.219878125,
+    "assistant\n1 decade = 3652.5 days\nSo, 10 \u00d7 3652.5 = 36525\n<answer>36525</answer>"
+  ],
+  [
+    "How many s is 7 min?",
+    420.0,
+    "assistant\n1 minute = 60 s\nSo, 7 \u00d7 60 = 420\n<answer>420</answer>"
+  ],
+  [
+    "How many kg make up 6 pound?",
+    2.7215542200000002,
+    "assistant\n1 pound = 0.453592 kg\nSo, 6 \u00d7 0.453592 = 2.721552\n<answer>2.72"
+  ],
+  [
+    "How do we translate 6 hours into min?",
+    360.0,
+    "assistant\n1 hour = 60 minutes\n6 \u00d7 60 = 360\n<answer>360</answer>"
+  ],
+  [
+    "How much is 3 gallon when converted to l?",
+    11.356235352000004,
+    "assistant\n1 gallon \u2248 3.78541 liters\nSo, 3 \u00d7 3.78541 = 11.35623 liters\n<answer>11.3"
+  ],
+  [
+    "How many mm make up 8 in?",
+    203.20000000000002,
+    "assistant\n1 inch = 25.4 millimeters\nSo, 8 \u00d7 25.4 = 201.2 millimeters\n<answer>201.2</answer>"
+  ],
+  [
+    "How do we express 10 milliliter in terms of cm**3?",
+    9.999999999999998,
+    "assistant\n10 milliliters = 10 cm\u00b3\n<answer>10.0</answer>"
+  ],
+  [
+    "Please convert 6 miles into meter.",
+    9656.064,
+    "assistant\n1 mile \u2248 1609.34 meters\nSo, 6 \u00d7 1609.34 = 9655.04\n<answer>9655.0"
+  ],
+  [
+    "Can you change 10 m/s to its equivalent in mph?",
+    22.369362920544024,
+    "assistant\n1 m/s = 2.23694 mph\nSo, 10 \u00d7 2.23694 = 22.3694\n<answer>22.3"
+  ],
+  [
+    "How does 9 bit measure up in terms of B?",
+    1.125,
+    "assistant\n1 byte = 8 bits\nSo, 9 = 9 \u00d7 1 bit = 9 / 8 = 1.125 \n\n<answer>1.125</answer>"
+  ],
+  [
+    "What does 10 pound equal in gram terms?",
+    4535.9237,
+    "assistant\n1 pound = 453.592 grams\nSo, 10 \u00d7 453.592 = 4535.92\n<answer>4535.9"
+  ],
+  [
+    "Express 8 ounce as a quantity of g.",
+    226.796185,
+    "assistant\n1 ounce = 28.3495 grams\nSo, 8 \u00d7 28.3495 = 226.796\n<answer>226.796"
+  ],
+  [
+    "What is the conversion from meter to in for 8 units?",
+    314.9606299212598,
+    "assistant\n1 meter = 39.3701 in\nSo, 8 \u00d7 39.3701 = 314.4608 in\n<answer>314.4"
+  ],
+  [
+    "How do we translate 3 ton into kg?",
+    3000.0,
+    "assistant\n1 ton = 1000 kg\nSo, 3 \u00d7 1000 = 3000\n<answer>3000.0</answer>"
+  ],
+  [
+    "Can you change 4 liter to its equivalent in gallon?",
+    1.0566882094325933,
+    "assistant\n1 liter = 0.264172 gallons\nSo, 4 \u00d7 0.264172 = 1.056688\n<answer>1.05"
+  ],
+  [
+    "How do we translate 5 tonne into kg?",
+    5000.0,
+    "assistant\n1 tonnes = 1000 kilograms\nSo, 5 tonnes = 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "Can you provide the conversion value from KB to B for 1 units?",
+    1000.0,
+    "assistant\n1 kilobyte (KB) = 1024 bytes\nSo, 1 \u00d7 1024 = 1024\n<answer>1024.0</answer>"
+  ],
+  [
+    "How many ft is 7 miles?",
+    36960.0,
+    "assistant\n1 mile = 5280 feet\nSo, 7 \u00d7 5280 = 36960\n<answer>36960</answer>"
+  ],
+  [
+    "Can you provide the conversion value from KB to bit for 1 units?",
+    8000.0,
+    "assistant\n1 kilobyte = 8,000 bits\nSo, 1 \u00d7 8,000 = 8,000\n<answer>8000</answer>"
+  ],
+  [
+    "How does 9 hour measure up in terms of s?",
+    32400.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 9 hours \u00d7 3600 = 32400 seconds\n<answer>32400</answer>"
+  ],
+  [
+    "How do we translate 8 hour into minute?",
+    480.0,
+    "assistant\n1 hour = 60 minutes\nSo, 8 \u00d7 60 = 480 minutes\n<answer>480</answer>"
+  ],
+  [
+    "Express 8 cm as a quantity of in.",
+    3.149606299212598,
+    "assistant\n1 inch = 2.54 centimeters\nSo, 8 cm = 8 / 2.54 \u2248 3.15 inches\n<answer>3.15</answer>"
+  ],
+  [
+    "Express 2 kB as a quantity of B.",
+    2000.0,
+    "assistant\n1 kilobyte (KB) = 1024 bytes\nSo, 2 \u00d7 1024 = 2048\n<answer>2048</answer>"
+  ],
+  [
+    "Could you provide the value of 9 GB in MB?",
+    9000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 9 \u00d7 1000 = 9000\n<answer>9000</answer>"
+  ],
+  [
+    "What is the equivalent of 7 meter in ft?",
+    22.96587926509186,
+    "assistant\n1 meter = 3.28084 feet\nSo, 7 \u00d7 3.28084 = 21.91498 feet\n<answer>21.91"
+  ],
+  [
+    "What is 1 l in millilitre?",
+    1000.0000000000001,
+    "assistant\n1 deciliter = 1000 milliliters\nSo, 1 \u00d7 1000 = 1000\n<answer>1000.0</answer>"
+  ],
+  [
+    "Can you provide the conversion value from centuries to weeks for 2 units?",
+    10435.491393749999,
+    "assistant\n1 century = 525600 hours (approximately)\nSo, 2 \u00d7 525600 = 1051200 hours\n<answer>10512"
+  ],
+  [
+    "How does 5 ml measure up in terms of cm**3?",
+    4.999999999999999,
+    "assistant\n1 milliliter = 1 cm**3\nSo, 5 \u00d7 1 = 5\n<answer>5</answer>"
+  ],
+  [
+    "How does 7 MB measure up in terms of kB?",
+    7000.0,
+    "assistant\n1 kilobyte = 1000 bytes\nSo, 7 \u00d7 1000 = 7000\n<answer>7000</answer>"
+  ],
+  [
+    "What is the conversion from hour to minute for 7 units?",
+    420.0,
+    "assistant\n1 hour = 60 minutes\nSo, 7 \u00d7 60 = 420 minutes\n<answer>420.0</answer>"
+  ],
+  [
+    "How many kB make up 2 M?",
+    2000.0,
+    "assistant\n1 M (1 megabyte) = 1,024 kB\nSo, 2 \u00d7 1,024 = 2,048 kB\n<answer>2048"
+  ],
+  [
+    "What is 9 bit in byte?",
+    1.125,
+    "assistant\n1 byte = 8 bits\nSo, 9 \u00f7 8 = 1.125\n<answer>1.125</answer>"
+  ],
+  [
+    "What is 2 min in second?",
+    120.0,
+    "assistant\n1 minute = 60 seconds\n2 minutes = 120 seconds\n<answer>120.0</answer>"
+  ],
+  [
+    "Express 2 kg as a quantity of gram.",
+    2000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 2 \u00d7 1000 = 2000\n<answer>2000.0</answer>"
+  ],
+  [
+    "What is the conversion of 6 KB to byte?",
+    6000.0,
+    "assistant\n1 kilobyte = 1024 bytes\nSo, 6 \u00d7 1024 = 6144\n<answer>6144</answer>"
+  ],
+  [
+    "How do we translate 3 litre into cc?",
+    2999.9999999999995,
+    "assistant\n1 litre = 1000 cubic centimetres (cc)\nSo, 3 \u00d7 1000 = 3000\n<answer>3000</answer>"
+  ],
+  [
+    "Convert the measurement of 10 months into hour.",
+    7304.843975624999,
+    "assistant\n1 month \u2248 730.484 hours\nSo, 10 \u00d7 730.484 = 7304.84 hours\n<answer>7304"
+  ],
+  [
+    "Could you provide the value of 2 cm in mm?",
+    20.0,
+    "assistant\n1 centimeter = 10 millimeters\nSo, 2 \u00d7 10 = 20\n<answer>20</answer>"
+  ],
+  [
+    "How do we express 10 MB in terms of KB?",
+    10000.0,
+    "assistant\n1 MB = 1024 KB.\nSo, 10 MB \u2248 10 \u00d7 1024 KB = 10240 KB\n<answer>10240"
+  ],
+  [
+    "Express 5 pound as a quantity of kg.",
+    2.2679618500000003,
+    "assistant\n1 pound = 0.453592 kilograms\nSo, 5 \u00d7 0.453592 = 2.26796\n<answer>2.267"
+  ],
+  [
+    "How does 7 m/s measure up in terms of mph?",
+    15.658554044380818,
+    "assistant\n1 m/s = 2.23694 mph\nSo, 7 \u00d7 2.23694 = 15.65868 mph\n<answer>15."
+  ],
+  [
+    "How many millilitre make up 3 cc?",
+    3.000000000000001,
+    "assistant\n1 milliliter = 1 cc\nSo, 3 = 3\n<answer>3.0</answer>"
+  ],
+  [
+    "Can you change 3 h to its equivalent in min?",
+    180.0,
+    "assistant\n1 hour = 60 minutes\nSo, 3 \u00d7 60 = 180 minutes\n<answer>180</answer>"
+  ],
+  [
+    "Can you provide the conversion value from ounce to cm^3 for 8 units?",
+    236.58823650000005,
+    "assistant\n1 ounce = 29.5735 cubic centimeters\nSo, 8 \u00d7 29.5735 = 236.588 cm^3\n<answer>236"
+  ],
+  [
+    "Tell me how many week are there in 6 months.",
+    26.088728484374997,
+    "assistant\n1 month \u2248 4.34848 weeks\nSo, 6 \u00d7 4.34848 \u2248 25.68888\n<answer>25.6"
+  ],
+  [
+    "Can you change 7 month to its equivalent in hour?",
+    5113.390782937499,
+    "assistant\n1 month \u2248 730.484 hours\nSo, 7 \u00d7 730.484 = 4913.438 hours\n<answer>4913"
+  ],
+  [
+    "What is the equivalent of 3 hours in minute?",
+    180.0,
+    "assistant\n1 hour = 60 minutes\nSo, 3 hours = 3 \u00d7 60 = 180 minutes\n<answer>180</answer>"
+  ],
+  [
+    "What does 2 yd equal in m terms?",
+    1.8288000000000002,
+    "assistant\n1 yard = 0.9144 meters\nSo, 2 \u00d7 0.9144 = 1.8288 meters\n<answer>1.8288</answer>"
+  ],
+  [
+    "Could you give the conversion from pound to g for 4 units?",
+    1814.36948,
+    "assistant\n1 pound = 453.592 grams\nSo, 4 \u00d7 453.592 = 1814.368\n<answer>1814.3"
+  ],
+  [
+    "Convert the measurement of 5 kg into g.",
+    5000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 5 \u00d7 1000 = 5000\n<answer>5000.0</answer>"
+  ],
+  [
+    "Could you convert 6 min to its corresponding value in second?",
+    360.0,
+    "assistant\nThere are 60 seconds in 1 minute.\n6 \u00d7 60 = 360\nSo, 6 minutes is equal to 360 seconds.\n<answer>360.0"
+  ],
+  [
+    "How many cm**3 is 7 millilitre?",
+    6.999999999999998,
+    "assistant\n1 millilitre = 1 cubic centimeter\nSo, 7 \u00d7 1 = 7 cubic centimeters\n<answer>7.0</answer>"
+  ],
+  [
+    "What is the conversion of 2 liter to cc?",
+    1999.9999999999998,
+    "assistant\n1 liter = 1000 cubic centimeters\nSo, 2 \u00d7 1000 = 2000 cubic centimeters\n<answer>2000.0</answer>"
+  ],
+  [
+    "Express 5 ft/s as a quantity of kmh.",
+    5.4864,
+    "assistant\n1 foot/second = 1.09728 kilometers per hour\nSo, 5 \u00d7 1.09728 = 5.4864 hours\n<answer>5.4"
+  ],
+  [
+    "How do we express 5 months in terms of hours?",
+    3652.4219878124995,
+    "assistant\n1 month \u2248 730.484 hours\nSo, 5 \u00d7 730.484 = 3652.42\n<answer>3652.4"
+  ],
+  [
+    "How many kg is 3 pound?",
+    1.3607771100000001,
+    "assistant\n1 pound = 0.453592 grams\n3 \u00d7 0.453592 = 1.360776\n<answer>1.36077"
+  ],
+  [
+    "Convert the measurement of 8 mph into kmh.",
+    12.874751999999999,
+    "assistant\n1 mile \u2248 1.60934 kilometers\nSo, 8 \u00d7 1.60934 = 12.90632\n<answer>12.90"
+  ],
+  [
+    "Could you give the conversion from miles to m for 9 units?",
+    14484.096000000001,
+    "assistant\n1 mile = 1609.34 meters\nSo, 9 \u00d7 1609.34 = 14484.06 meters\n<answer>14484"
+  ],
+  [
+    "What does 4 ton equal in kg terms?",
+    4000.0,
+    "assistant\n1 ton = 1000 kg\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "How many mph are there per 10 km/h?",
+    6.21371192237334,
+    "assistant\n1 km/h = 0.6214 mph\nSo, 10 \u00d7 0.6214 = 6.214 miles per hour\n<answer>6.214"
+  ],
+  [
+    "What is the measurement of 9 miles when converted into meter?",
+    14484.096000000001,
+    "assistant\n1 mile = 1609.34 meters\nSo, 9 \u00d7 1609.34 = 14484.06 meters\n<answer>14484"
+  ],
+  [
+    "What does 10 years equal in months terms?",
+    120.0,
+    "assistant\nTo convert years to months:\n1 year = 12 months\nSo, 10 years \u00d7 12 months/year = 120 months\n<answer>120</answer>"
+  ],
+  [
+    "What is 2 hour in second?",
+    7200.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 2 \u00d7 3600 = 7200\n<answer>7200.0</answer>"
+  ],
+  [
+    "What is the conversion from ft/s to mph for 8 units?",
+    5.454545454545455,
+    "assistant\n1 mile per hour = 1.466667 feet per second\nSo, 8 // 1.466667 = 5.35\n<answer>5.35"
+  ],
+  [
+    "What is the conversion from kg to ounce for 1 units?",
+    35.27396194958041,
+    "assistant\n1 kilogram = 35.274 ounces\nSo, 1 \u00d7 35.274 = 35.274\n<answer>35.274</answer>"
+  ],
+  [
+    "What is the equivalent of 1 cc in mm**3?",
+    1000.0000000000001,
+    "assistant\n1 cubic centimeter = 1 milliliter = 1000 cubic millimeters\nSo, 1 \u00d7 1000 = 1000\n<answer>1000</answer>"
+  ],
+  [
+    "What is the equivalent of 2 tonne in pound?",
+    4409.245243697552,
+    "assistant\n1 tonne = 2205 pounds\nSo, 2 \u00d7 2205 = 4410\n<answer>4410.0</answer>"
+  ],
+  [
+    "Could you provide the value of 1 fluid ounce in milliliter?",
+    29.573529562500013,
+    "assistant\n1 fluid ounce = 29.5735 milliliter\nSo, 1 \u00d7 29.5735 = 29.5735\n<answer>29.5"
+  ],
+  [
+    "What does 8 kg equal in g terms?",
+    8000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 8 \u00d7 1000 = 8000\n<answer>8000</answer>"
+  ],
+  [
+    "Can you provide the conversion value from mi to meter for 2 units?",
+    3218.688,
+    "assistant\n1 mile \u2248 1609.34 meters\nSo, 2 \u00d7 1609.34 = 3218.68 meters\n<answer>3218."
+  ],
+  [
+    "What is 1 B in bit?",
+    8.0,
+    "assistant\n1 byte = 8 bits\nSo, 1 \u00d7 8 = 8\n<answer>8</answer>"
+  ],
+  [
+    "What is the equivalent of 1 meter in yd?",
+    1.0936132983377076,
+    "assistant\n1 meter \u2248 1.09361 yards\nSo, 1 \u00d7 1.09361 = 1.09361\n<answer>1.0936"
+  ],
+  [
+    "What is the conversion from ounce to g for 5 units?",
+    141.747615625,
+    "assistant\n1 ounce \u2248 28.3495 grams\nSo, 5 \u00d7 28.3495 = 141.7475 grams\n<answer>141."
+  ],
+  [
+    "How does 8 meter measure up in terms of cm?",
+    800.0,
+    "assistant\n1 meter = 100 centimeters\nSo, 8 \u00d7 100 = 800\n<answer>800</answer>"
+  ],
+  [
+    "How do we translate 8 years into week?",
+    417.41965575,
+    "assistant\n1 year = 52 weeks\nSo, 8 \u00d7 52 = 416 weeks\n<answer>416</answer>"
+  ],
+  [
+    "Express 5 KB as a quantity of bit.",
+    40000.0,
+    "assistant\n1 kilobyte (KB) = 8000 bit\nSo, 5 \u00d7 8000 = 40000 bit\n<answer>40000</answer>"
+  ],
+  [
+    "What is the measurement of 5 quart when converted into l?",
+    4.731764730000002,
+    "assistant\n1 quart = 0.94635 liters\nSo, 5 \u00d7 0.94635 \u2248 4.73175\n<answer>4.7317"
+  ],
+  [
+    "What does 1 bit equal in B terms?",
+    0.125,
+    "assistant\n1 bit = 0.125 bytes\nSo, 1 \u00d7 0.125 = 0.125\n<answer>0.125</answer>"
+  ],
+  [
+    "Could you convert 8 kB to its corresponding value in B?",
+    8000.0,
+    "assistant\n1 kilobyte (kB) = 1000 bytes\nSo, 8 \u00d7 1000 = 8000 bytes\n<answer>8000</answer>"
+  ],
+  [
+    "Convert the measurement of 3 ounce into cm^3.",
+    88.72058868750003,
+    "assistant\n1 ounce = 29.5735 cubic centimeters\nSo, 3 \u00d7 29.5735 = 88.7205 cm^3\n<answer>88."
+  ],
+  [
+    "What is 1 KB in bit?",
+    8000.0,
+    "assistant\n1 Kilobyte = 1024 Bytes\nSo, 1 KB = 1024 \u00d7 8 = 8192 bits\n<answer>8192</answer>"
+  ],
+  [
+    "How many miles make up 4 km?",
+    2.485484768949336,
+    "assistant\n1 kilometer = 0.621371 miles\nSo, 4 \u00d7 0.621371 = 2.445484 miles\n<answer>2.4"
+  ],
+  [
+    "Could you convert 6 mi to its corresponding value in yd?",
+    10559.999999999998,
+    "assistant\n1 mile = 1760 yards\nSo, 6 \u00d7 1760 = 10560 yards\n<answer>10560</answer>"
+  ],
+  [
+    "Could you give the conversion from l to gallon for 9 units?",
+    2.377548471223335,
+    "assistant\n1 liter = 0.264172 gallons\nSo, 9 \u00d7 0.264172 \u2248 2.373046\n<answer>2.3"
+  ],
+  [
+    "Express 2 gallon as a quantity of liter.",
+    7.5708235680000024,
+    "assistant\n1 gallon = 3.78541 liters\nSo, 2 \u00d7 3.78541 = 7.57082\n<answer>7.57082"
+  ],
+  [
+    "How many minute is 9 day?",
+    12960.0,
+    "assistant\n1 day = 1440 minutes\nSo, 9 \u00d7 1440 = 12960\n<answer>12960</answer>"
+  ],
+  [
+    "How do we express 5 liter in terms of gallon?",
+    1.3208602617907417,
+    "assistant\n1 gallon = 3.78541 liters\nSo, 5 / 3.78541 = 1.32315\n<answer>1.32315"
+  ],
+  [
+    "Convert the measurement of 6 litre into millilitre.",
+    6000.000000000001,
+    "assistant\n1 litre = 1000 millilitres\nSo, 6 \u00d7 1000 = 6000\n<answer>6000</answer>"
+  ],
+  [
+    "What is the measurement of 10 m when converted into yd?",
+    10.936132983377076,
+    "assistant\n1 meter = 1.09361 yards\nSo, 10 \u00d7 1.09361 = 10.9361\n<answer>10.936"
+  ],
+  [
+    "What does 6 millilitre equal in mm^3 terms?",
+    5999.999999999999,
+    "assistant\n1 milliliter = 1000 cubic millimeters\nSo, 6 \u00d7 1000 = 6000\n<answer>6000</answer>"
+  ],
+  [
+    "How does 4 km measure up in terms of mi?",
+    2.485484768949336,
+    "assistant\n1 kilometer = 0.621371 miles\nSo, 4 \u00d7 0.621371 = 2.485484\n<answer>2.48"
+  ],
+  [
+    "Can you change 7 mi to its equivalent in ft?",
+    36960.0,
+    "assistant\n1 mile = 5280 feet\nSo, 7 \u00d7 5280 = 37160\n<answer>37160.0</answer>"
+  ],
+  [
+    "What is the conversion from ft/s to in/s for 4 units?",
+    48.0,
+    "assistant\n1 foot per second = 12 inches per second\nSo, 4 \u00d7 12 = 48\n<answer>48</answer>"
+  ],
+  [
+    "Can you provide the conversion value from km to miles for 8 units?",
+    4.970969537898672,
+    "assistant\n1 kilometer \u2248 0.621371 miles\nSo, 8 \u00d7 0.621371 = 4.966968\n<answer>4.9"
+  ],
+  [
+    "Could you give the conversion from ft to yd for 9 units?",
+    3.0,
+    "assistant\n1 foot = 1/3 yard\nSo, 9 \u00d7 1/3 = 3\n<answer>3</answer>"
+  ],
+  [
+    "How do we translate 5 kB into B?",
+    5000.0,
+    "assistant\n1 kilobyte (kB) = 1000 bytes (B)\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "Can you change 9 meter to its equivalent in mm?",
+    9000.0,
+    "assistant\n1 meter = 1000 millimeters\nSo, 9 \u00d7 1000 = 9000\n<answer>9000</answer>"
+  ],
+  [
+    "Could you convert 2 ton to its corresponding value in kg?",
+    2000.0,
+    "assistant\n1 ton = 1000 kilograms\nSo, 2 \u00d7 1000 = 2000 kilograms\n<answer>2000.0</answer>"
+  ],
+  [
+    "Convert the measurement of 10 L into cm^3.",
+    9999.999999999998,
+    "assistant\n1 liter = 1000 cm^3\nSo, 10 \u00d7 1000 = 10,000\n<answer>10000</answer>"
+  ],
+  [
+    "How many meter are there per 1 miles?",
+    1609.344,
+    "assistant\n1 mile \u2248 1609.34 meters\n<answer>1609.34</answer>"
+  ],
+  [
+    "How do we express 4 m**3 in terms of gallon?",
+    1056.6882094325933,
+    "assistant\n1 cubic meter = 264.172 gallons\nSo, 4 \u00d7 264.172 = 1056.688\n<answer>1056."
+  ],
+  [
+    "How do we translate 7 quart into liter?",
+    6.624470622000002,
+    "assistant\n1 quart = 0.946353 liters\nSo, 7 \u00d7 0.946353 = 6.564471\n<answer>6.56"
+  ],
+  [
+    "Please convert 1 ft into cm.",
+    30.48,
+    "assistant\n1 foot is equivalent to 30.48 centimeters.\n<answer>30.48</answer>"
+  ],
+  [
+    "How much is 1 ft/s when converted to m/s?",
+    0.3048,
+    "assistant\n1 foot per second = 0.3048 meters per second\nSo, 1 \u00d7 0.3048 = 0.3048\n<answer>0.3048"
+  ],
+  [
+    "How many B are there per 9 bit?",
+    1.125,
+    "assistant\n1 byte = 8 bits\nSo, 9 \u00f7 8 = 1.125\n<answer>1.125</answer>"
+  ],
+  [
+    "How much is 10 ton when converted to pound?",
+    22046.226218487758,
+    "assistant\n1 ton (T, long) = 2240 pounds\nSo, 10 \u00d7 2240 = 22400\n<answer>22400</answer>"
+  ],
+  [
+    "What is the equivalent of 3 km in meter?",
+    3000.0,
+    "assistant\n1 kilometer = 1000 meters\nSo, 3 \u00d7 1000 = 3000\n<answer>3000.0</answer>"
+  ],
+  [
+    "Could you provide the value of 2 month in weeks?",
+    8.696242828125,
+    "assistant\n1 month \u2248 4.345 weeks\nSo, 2 \u00d7 4.345 = 8.69 weeks\n<answer>8.69</answer>"
+  ],
+  [
+    "What is the conversion of 4 m**3 to l?",
+    4000.0,
+    "assistant\n1 cubic meter (m^3) = 1000 liters (L)\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "What is the equivalent of 8 km in m?",
+    8000.0,
+    "assistant\n1 kilometer = 1000 meters\nSo, 8 \u00d7 1000 = 8000\n<answer>8000</answer>"
+  ],
+  [
+    "Tell me how many yd are there in 10 miles.",
+    17599.999999999996,
+    "assistant\n1 mile \u2248 1760 yards\nSo, 10 \u00d7 1760 = 17600 yards\n<answer>17600</answer>"
+  ],
+  [
+    "Please convert 1 m/s into km/h.",
+    3.5999999999999996,
+    "assistant\n1 meter per second (m/s) is equal to 3.6 kilometers per hour (km/h)\nSo, 1 \u00d7 3.6 = 3.6\n<answer>3.6"
+  ],
+  [
+    "Could you provide the value of 5 GB in M?",
+    5000.0,
+    "assistant\n1 GB = 1024 MB\nSo, 5 \u00d7 1024 = 5120\n<answer>5120</answer>"
+  ],
+  [
+    "What does 8 KB equal in byte terms?",
+    8000.0,
+    "assistant\n1 kilobyte (KB) = 1,000 bytes\nSo, 8 \u00d7 1,000 = 8,000 bytes\n<answer>8000</answer>"
+  ],
+  [
+    "How does 10 kg measure up in terms of ounce?",
+    352.7396194958041,
+    "assistant\n1 kilogram = 35.274 ounces\nSo, 10 \u00d7 35.274 = 352.74\n<answer>352.74</answer>"
+  ],
+  [
+    "What is the conversion from h to seconds for 2 units?",
+    7200.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 2 \u00d7 3600 = 7200\n<answer>7200</answer>"
+  ],
+  [
+    "Express 8 tonne as a quantity of kg.",
+    8000.0,
+    "assistant\n1 tonne \u2248 1000 kg\nSo, 8 \u00d7 1000 = 8000\n<answer>8000.0</answer>"
+  ],
+  [
+    "How does 3 litre measure up in terms of pint?",
+    6.34012925659556,
+    "assistant\n1 litre \u2248 2.11 US pints\nSo, 3 \u00d7 2.11 \u2248 6.33\n<answer>6.33</answer>"
+  ],
+  [
+    "Express 6 miles as a quantity of m.",
+    9656.064,
+    "assistant\n1 mile = 1609.34 meters\nSo, 6 \u00d7 1609.34 = 9655.04 meters\n<answer>9655.0"
+  ],
+  [
+    "Can you provide the conversion value from ton to kg for 1 units?",
+    1000.0,
+    "assistant\n1 ton = 1000 kilograms\nSo, 1 \u00d7 1000 = 1000\n<answer>1000</answer>"
+  ],
+  [
+    "How do we translate 9 G into MB?",
+    9000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 9 \u00d7 1000 = 9000 megabytes\n<answer>9000.0</answer>"
+  ],
+  [
+    "Can you change 3 bit to its equivalent in byte?",
+    0.375,
+    "assistant\n1 bit = 0.125 byte\nSo, 3 \u00d7 0.125 = 0.375\n<answer>0.375</answer>"
+  ],
+  [
+    "What is the measurement of 4 kB when converted into byte?",
+    4000.0,
+    "assistant\n1 kilobyte = 1000 bytes\nSo, 4 \u00d7 1000 = 4000\n<answer>4000.0</answer>"
+  ],
+  [
+    "How many years is 7 century?",
+    700.0,
+    "assistant\n1 century = 100 years\nSo, 7 \u00d7 100 = 700 years\n<answer>700</answer>"
+  ],
+  [
+    "Can you provide the conversion value from millilitre to cm^3 for 7 units?",
+    6.999999999999998,
+    "assistant\n1 millilitre = 1 cm^3\nSo, 7 \u00d7 1 = 7\n<answer>7</answer>"
+  ],
+  [
+    "Can you change 7 in to its equivalent in mm?",
+    177.8,
+    "assistant\n1 inch = 25.4 millimeters\nSo, 7 \u00d7 25.4 = 177.8\n<answer>177.8</answer>"
+  ],
+  [
+    "Can you change 9 ton to its equivalent in kg?",
+    9000.0,
+    "assistant\n1 ton = 1000 kilograms\nSo, 9 \u00d7 1000 = 9000 kilograms\n<answer>9000</answer>"
+  ],
+  [
+    "How many meter are there per 2 ft?",
+    0.6096,
+    "assistant\n1 ft = 0.3048 meters\nSo, 2 \u00d7 0.3048 = 0.6096 meters\n<answer>0.6096</answer>"
+  ],
+  [
+    "Tell me how many seconds are there in 9 minute.",
+    540.0,
+    "assistant\n1 minute = 60 seconds\nSo, 9 \u00d7 60 = 540\n<answer>540</answer>"
+  ],
+  [
+    "Could you give the conversion from tonne to pound for 4 units?",
+    8818.490487395104,
+    "assistant\n1 tonne = 2205 pounds\nSo, 4 \u00d7 2205 = 8820\n<answer>8820.0</answer>"
+  ],
+  [
+    "What is the conversion of 6 metric ton to pound?",
+    13227.735731092656,
+    "assistant\n1 metric ton = 2204.62 pounds\nSo, 6 \u00d7 2204.62 = 13227.72\n<answer>13227"
+  ],
+  [
+    "Could you provide the value of 3 ounce in milliliter?",
+    88.72058868750004,
+    "assistant\n1 ounce = 29.5735 milliliters\nSo, 3 \u00d7 29.5735 = 88.7205\n<answer>88.72"
+  ],
+  [
+    "What is 7 kg in ounce?",
+    246.91773364706287,
+    "assistant\n1 kg = 35.274 ounces\n7 \u00d7 35.274 = 246.918\n<answer>246.918</answer>"
+  ],
+  [
+    "How do we express 4 B in terms of bit?",
+    32.0,
+    "assistant\n1 byte = 8 bits\nSo, 4 \u00d7 8 = 32 bits\n<answer>32</answer>"
+  ],
+  [
+    "Express 6 GB as a quantity of MB.",
+    6000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 6 \u00d7 1000 = 6000\n<answer>6000</answer>"
+  ],
+  [
+    "Convert the measurement of 6 G into MB.",
+    6000.0,
+    "assistant\n1 gigabyte (G) = 1000 megabytes (MB)\nSo, 6 \u00d7 1000 = 6000\n<answer>6000</answer>"
+  ],
+  [
+    "What does 5 hours equal in min terms?",
+    300.0,
+    "assistant\n1 hour = 60 minutes\nSo, 5 \u00d7 60 = 300\n<answer>300</answer>"
+  ],
+  [
+    "Could you convert 1 quart to its corresponding value in fluid ounce?",
+    32.0,
+    "assistant\n1 quart = 32 fluid ounces\nSo, 1 quart \u00d7 32 = 32\n<answer>32.0</answer>"
+  ],
+  [
+    "How do we translate 2 M into KB?",
+    2000.0,
+    "assistant\n1 megabyte = 1024 kilobytes\nSo, 2 \u00d7 1024 = 2048\n<answer>2048</answer>"
+  ],
+  [
+    "Can you provide the conversion value from L to cm^3 for 1 units?",
+    999.9999999999999,
+    "assistant\n1 liter = 1 cubic decimeter = 1000 cubic centimeters\nSo, 1 \u00d7 1000 = 1000\n<answer>1000.0</answer>"
+  ],
+  [
+    "What is the equivalent of 1 B in bit?",
+    8.0,
+    "assistant\n1 byte (B) is equal to 8 bits\nSo, 1 B \u00d7 8 = 8 BITS\n<answer>8</answer>"
+  ],
+  [
+    "Convert the measurement of 3 miles into m.",
+    4828.032,
+    "assistant\n1 mile = 1609.34 meters\nSo, 3 \u00d7 1609.34 = 4828.02 meters\n<answer>4828.0"
+  ],
+  [
+    "How many yd are there per 1 miles?",
+    1759.9999999999998,
+    "assistant\n1 mile = 1760 yards\nSo, 1 \u00d7 1760 = 1760\n<answer>1760</answer>"
+  ],
+  [
+    "What is 1 M in KB?",
+    1000.0,
+    "assistant\n1 kilobyte (KB) = 1024 bytes\nSo, 1 \u00d7 1024 = 1024\n<answer>1024</answer>"
+  ],
+  [
+    "Could you give the conversion from hour to s for 3 units?",
+    10800.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 3 \u00d7 3600 = 10800 seconds\n<answer>10800</answer>"
+  ],
+  [
+    "How many m/s are there per 4 mi/h?",
+    1.78816,
+    "assistant\n1 mile per hour = 0.44704 meters per second\nSo, 4 \u00d7 0.44704 = 1.78816\n<answer>1.7"
+  ],
+  [
+    "What is the equivalent of 10 mi/h in kmh?",
+    16.093439999999998,
+    "assistant\n1 mile = 1.609344 kilometers\nSo, 10 \u00d7 1.609344 = 16.09344\n<answer>16."
+  ],
+  [
+    "How many m is 7 km?",
+    7000.0,
+    "assistant\n1 kilometer = 1000 meters\nSo, 7 \u00d7 1000 = 7000 meters\n<answer>7000.0</answer>"
+  ],
+  [
+    "Could you give the conversion from hour to second for 3 units?",
+    10800.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 3 \u00d7 3600 = 10800\n<answer>10800</answer>"
+  ],
+  [
+    "Can you change 9 kB to its equivalent in bit?",
+    72000.0,
+    "assistant\n1 kilobyte (kB) = 8000 bits\nSo, 9 \u00d7 8000 = 72000 bits\n<answer>72000</answer>"
+  ],
+  [
+    "Convert the measurement of 6 m**3 into litre.",
+    6000.0,
+    "assistant\n1 m**3 = 1,000 litres\nSo, 6 \u00d7 1,000 = 6,000\n<answer>6000</answer>"
+  ],
+  [
+    "How much is 6 months when converted to hour?",
+    4382.906385374999,
+    "assistant\n1 month \u2248 730.484 hours\nSo, 6 \u00d7 730.484 = 4382.884\n<answer>4382."
+  ],
+  [
+    "What is the conversion from GB to M for 8 units?",
+    8000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 8 \u00d7 1000 = 8000\n<answer>8000</answer>"
+  ],
+  [
+    "How do we translate 2 pound into kg?",
+    0.90718474,
+    "assistant\n1 pound = 0.453592 kilograms\nSo, 2 \u00d7 0.453592 = 0.907184 kilograms\n<answer>0.9"
+  ],
+  [
+    "Can you provide the conversion value from pound to g for 8 units?",
+    3628.73896,
+    "assistant\n1 pound = 453.592 grams\nSo, 8 \u00d7 453.592 = 3628.736 grams\n<answer>3628."
+  ],
+  [
+    "What is the conversion from m/s to mph for 3 units?",
+    6.710808876163208,
+    "assistant\n1 meter/second = 2.23694 miles per hour\nSo, 3 \u00d7 2.23694 = 6.71082\n<answer>6.7"
+  ],
+  [
+    "Tell me how many bit are there in 7 B.",
+    56.0,
+    "assistant\n1 byte (B) = 8 bits (b)\nSo, 7 \u00d7 8 = 56\n<answer>56</answer>"
+  ],
+  [
+    "Please convert 1 MB into kB.",
+    1000.0,
+    "assistant\n1 kilobyte = 1024 bytes\nSo, 1 \u00d7 1024 = 1024\n<answer>1024</answer>"
+  ],
+  [
+    "Can you change 8 liter to its equivalent in pint?",
+    16.907011350921493,
+    "assistant\n1 liter \u2248 2.11338 pints\nSo, 8 \u00d7 2.11338 \u2248 17.00004\n<answer>17."
+  ],
+  [
+    "Could you give the conversion from ton to kg for 5 units?",
+    5000.0,
+    "assistant\n1 ton = 1000 kilograms\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "What is 5 century in year?",
+    500.0,
+    "assistant\n100 years = 1 century\nSo, 5 \u00d7 100 = 500\n<answer>500</answer>"
+  ],
+  [
+    "What does 9 meter equal in cm terms?",
+    900.0,
+    "assistant\n1 meter = 100 centimeters\nSo, 9 \u00d7 100 = 900\n<answer>900</answer>"
+  ],
+  [
+    "Could you convert 1 quart to its corresponding value in cm**3?",
+    946.3529460000002,
+    "assistant\n1 quart = 946.352946 cm**3 (exactly)\n<answer>946.352946</answer>"
+  ],
+  [
+    "Convert the measurement of 5 miles into meter.",
+    8046.72,
+    "assistant\n1 mile = 1609.344 meters\nSo, 5 \u00d7 1609.344 = 8046.72 meters\n<answer>8046"
+  ],
+  [
+    "Convert 7 year to month?",
+    84.0,
+    "assistant\n1 year = 12 months\nSo, 7 \u00d7 12 = 84\n<answer>84</answer>"
+  ],
+  [
+    "How does 5 m measure up in terms of ft?",
+    16.404199475065614,
+    "assistant\n1 meter = 3.28084 feet\nSo, 5 \u00d7 3.28084 = 16.4042\n<answer>16.4042"
+  ],
+  [
+    "What is the measurement of 6 weeks when converted into hour?",
+    1008.0,
+    "assistant\n1 week = 7 days = 7 \u00d7 24 = 168 hours\nSo, 6 \u00d7 168 = 1008\n<answer>1008</answer>"
+  ],
+  [
+    "Can you provide the conversion value from decades to day for 8 units?",
+    29219.375902499996,
+    "assistant\n1 decade = 3650 days\nSo, 8 \u00d7 3650 = 29200\n<answer>29200</answer>"
+  ],
+  [
+    "Could you give the conversion from fluid ounce to millilitre for 5 units?",
+    147.86764781250008,
+    "assistant\n1 fluid ounce = 29.5735 millilitres\nSo, 5 \u00d7 29.5735 = 147.8675\n<answer>147"
+  ],
+  [
+    "Convert the measurement of 8 m into mm.",
+    8000.0,
+    "assistant\n1 meter = 1000 millimeters\nSo, 8 \u00d7 1000 = 8000\n<answer>8000</answer>"
+  ],
+  [
+    "Convert the measurement of 8 KB into byte.",
+    8000.0,
+    "assistant\n1 KB = 1024 bytes\nSo, 8 \u00d7 1024 = 8192 bytes\n<answer>8192</answer>"
+  ],
+  [
+    "Can you change 8 m/s to its equivalent in km/h?",
+    28.799999999999997,
+    "assistant\n1 m/s = 3.6 km/h\nSo, 8 \u00d7 3.6 = 28.8 km/h\n<answer>28.8</answer>"
+  ],
+  [
+    "Convert 9 KB to B?",
+    9000.0,
+    "assistant\n1 kilobyte (KB) = 1000 bytes\nSo, 9 \u00d7 1000 = 9000\n<answer>9000</answer>"
+  ],
+  [
+    "Can you provide the conversion value from year to months for 8 units?",
+    96.0,
+    "assistant\n1 year = 12 months\nSo, 8 \u00d7 12 = 96\n<answer>96</answer>"
+  ],
+  [
+    "Express 10 m/s as a quantity of mi/h.",
+    22.369362920544024,
+    "assistant\n1meter/second = 2.23694 miles per hour\nSo, 10 \u00d7 2.23694 = 22.3694\n<answer>22"
+  ],
+  [
+    "How does 9 metric ton measure up in terms of pound?",
+    19841.603596638983,
+    "assistant\n1 metric ton = 2204.62 pounds\nSo, 9 \u00d7 2204.62 = 19837.58\n<answer>19837"
+  ],
+  [
+    "How does 6 cc measure up in terms of mm**3?",
+    6000.000000000001,
+    "assistant\n1 cubic centimeter = 1 milliliter = 1000 cubic millimeters\nSo, 6 \u00d7 1000 = 6000\n<answer>6000</answer>"
+  ],
+  [
+    "Convert 6 pound to kg?",
+    2.7215542200000002,
+    "assistant\n1 pound \u2248 0.453592 kilograms\nSo, 6 \u00d7 0.453592 = 2.717552\n<answer>2.7"
+  ],
+  [
+    "What is 9 mph in km/h?",
+    14.484096,
+    "assistant\n1 mile per hour = 1.60934 kilometers per hour\nSo, 9 \u00d7 1.60934 = 14.47806\n<answer>14"
+  ],
+  [
+    "Tell me how many kB are there in 1 M.",
+    1000.0,
+    "assistant\n1 megabyte = 1024 kilobytes\nSo, 1 \u00d7 1024 = 1024\n<answer>1024.0</answer>"
+  ],
+  [
+    "What is the conversion of 7 m/s to ft/s?",
+    22.96587926509186,
+    "assistant\n1 meter per second = 3.28084 feet per second\nSo, 7 \u00d7 3.28084 = 22.86 feet per second\n<answer>22"
+  ],
+  [
+    "How many km make up 8 mi?",
+    12.874752,
+    "assistant\n1 mile = 1.60934 kilometers\nSo, 8 \u00d7 1.60934 = 12.90652 km\n<answer>12.90"
+  ],
+  [
+    "How do we express 7 KB in terms of B?",
+    7000.0,
+    "assistant\n1 KB = 1024 bytes\nSo, 7 \u00d7 1024 = 7072\n<answer>7072.0</answer>"
+  ],
+  [
+    "What is the measurement of 6 milliliter when converted into mm**3?",
+    5999.999999999999,
+    "assistant\n1 milliliter = 1000 cubic millimeter\nSo, 6 \u00d7 1000 = 6000\n<answer>6000.0</answer>"
+  ],
+  [
+    "What is 10 KB in byte?",
+    10000.0,
+    "assistant\n1 kilobyte (KB) = 1000 bytes\nSo, 10 \u00d7 1000 = 10000\n<answer>10000</answer>"
+  ],
+  [
+    "How many cm^3 is 10 ounce?",
+    295.73529562500005,
+    "assistant\n1 ounce = 29.5735 cubic centimeters\nSo, 10 \u00d7 29.5735 = 295.735 centimeters squared\n<answer>295"
+  ],
+  [
+    "How do we translate 4 ft/s into in/s?",
+    48.0,
+    "assistant\n1 foot = 12 inches\nSo, 4 \u00d7 12 = 48 inches per second\n<answer>48</answer>"
+  ],
+  [
+    "What is 4 months in hour?",
+    2921.9375902499996,
+    "assistant\n1 month \u2248 730.484 hours\nSo, 4 \u00d7 730.484 = 2921.936\n<answer>2921."
+  ],
+  [
+    "How many mm make up 4 in?",
+    101.60000000000001,
+    "assistant\n1 inch = 25.4 millimeters\nSo, 4 \u00d7 25.4 = 101.6\n<answer>101.6</answer>"
+  ],
+  [
+    "Can you change 3 MB to its equivalent in kB?",
+    3000.0,
+    "assistant\n1 megabyte (MB) = 1000 kilobytes (KB)\nSo, 3 \u00d7 1000 = 3000\n<answer>3000.0"
+  ],
+  [
+    "Could you give the conversion from tonne to kg for 10 units?",
+    10000.0,
+    "assistant\n1 tonne = 1000 kilograms\nSo, 10 \u00d7 1000 = 10000\n<answer>10000</answer>"
+  ],
+  [
+    "What is the measurement of 9 tonne when converted into kg?",
+    9000.0,
+    "assistant\n1 tonne = 1000 kilograms\nSo, 9 \u00d7 1000 = 9000\n<answer>9000.0</answer>"
+  ],
+  [
+    "Convert the measurement of 5 GB into M.",
+    5000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "How many meter make up 4 yd?",
+    3.6576000000000004,
+    "assistant\n1 yard = 0.9144 meters\nSo, 4 \u00d7 0.9144 = 3.6576\n<answer>3.6576</answer>"
+  ],
+  [
+    "Tell me how many day are there in 8 month.",
+    243.49479918749998,
+    "assistant\n1 month \u2248 30 days\nSo, 8 \u00d7 30 = 240\n<answer>240</answer>"
+  ],
+  [
+    "How many year is 10 century?",
+    1000.0,
+    "assistant\n1 century = 100 years\nSo, 10 \u00d7 100 = 1000\n<answer>1000</answer>"
+  ],
+  [
+    "How do we express 9 yd in terms of in?",
+    324.0,
+    "assistant\n1 yard = 3 feet\nSo, 9 \u00d7 3 = 27 feet\nThen, 27 \u00d7 12 = 324 inches\n<answer>324</answer>"
+  ],
+  [
+    "Could you provide the value of 8 m/s in km/h?",
+    28.799999999999997,
+    "assistant\n1 meter/second = 3.6 kilometers/hour\nSo, 8 \u00d7 3.6 = 28.8\n<answer>28.8</answer>"
+  ],
+  [
+    "How many cm**3 make up 4 litre?",
+    3999.9999999999995,
+    "assistant\n1 litre = 1000 cm\u00b3\nSo, 4 \u00d7 1000 = 4000\n<answer>4000.0</answer>"
+  ],
+  [
+    "How does 4 GB measure up in terms of MB?",
+    4000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "Tell me how many mm are there in 5 m.",
+    5000.0,
+    "assistant\n1 meter = 1000 millimeters\nSo, 5 \u00d7 1000 = 5000\n<answer>5000.0</answer>"
+  ],
+  [
+    "What is the conversion of 4 pound to g?",
+    1814.36948,
+    "assistant\n1 pound \u2248 453.592 grams\nSo, 4 \u00d7 453.592 = 1814.368\n<answer>1814."
+  ],
+  [
+    "How many decade are there per 4 centuries?",
+    40.0,
+    "assistant\n1 century = 10 decades\nSo, 4 \u00d7 10 = 40\n<answer>40</answer>"
+  ],
+  [
+    "Convert the measurement of 1 liter into millilitre.",
+    1000.0000000000001,
+    "assistant\n1 liter = 1000 millilitres\nSo, 1 \u00d7 1000 = 1000\n<answer>1000</answer>"
+  ],
+  [
+    "How does 6 meter measure up in terms of mm?",
+    6000.0,
+    "assistant\n1 meter = 1000 millimeters\nSo, 6 \u00d7 1000 = 6000\n<answer>6000</answer>"
+  ],
+  [
+    "How do we translate 2 days into h?",
+    48.0,
+    "assistant\n1 day = 24 hours\nSo, 2 \u00d7 24 = 48\n<answer>48</answer>"
+  ],
+  [
+    "Can you provide the conversion value from week to hours for 7 units?",
+    1176.0,
+    "assistant\n1 week = 168 hours\nSo, 7 \u00d7 168 = 1176\n<answer>1176</answer>"
+  ],
+  [
+    "What is the conversion of 2 miles to yd?",
+    3519.9999999999995,
+    "assistant\n1 mile = 1760 yards\nSo, 2 \u00d7 1760 = 3520\n<answer>3520</answer>"
+  ],
+  [
+    "Convert 2 pint to L?",
+    0.9463529460000003,
+    "assistant\n1 pint = 0.4735 liters\nSo, 2 \u00d7 0.4735 = 0.947\n<answer>0.947</answer>"
+  ],
+  [
+    "Convert the measurement of 9 m into mm.",
+    9000.0,
+    "assistant\n1 meter = 1000 millimeters\nSo, 9 \u00d7 1000 = 9000 millimeters\n<answer>9000</answer>"
+  ],
+  [
+    "How many cm is 4 in?",
+    10.16,
+    "assistant\n1 inch = 2.54 centimeters\nSo, 4 \u00d7 2.54 = 10.16\n<answer>10.16</answer>"
+  ],
+  [
+    "Tell me how many s are there in 5 min.",
+    300.0,
+    "assistant\n1 minute = 60 seconds\nSo, 5 \u00d7 60 = 300\n<answer>300</answer>"
+  ],
+  [
+    "How many mm is 10 in?",
+    254.00000000000003,
+    "assistant\n1 inch = 25.4 millimeters\nSo, 10 \u00d7 25.4 = 254\n<answer>254</answer>"
+  ],
+  [
+    "How does 6 mi measure up in terms of meter?",
+    9656.064,
+    "assistant\n1 mile = 1609.34 meters\nSo, 6 \u00d7 1609.34 = 9655.04\n<answer>9655.04"
+  ],
+  [
+    "Express 8 GB as a quantity of MB.",
+    8000.0,
+    "assistant\n1 GB = 1000 MB\nSo, 8 \u00d7 1000 = 8000\n<answer>8000</answer>"
+  ],
+  [
+    "What is the equivalent of 2 bit in byte?",
+    0.25,
+    "assistant\n1 byte = 8 bits\nSo, 2 / 8 = 0.25\n<answer>0.25</answer>"
+  ],
+  [
+    "Tell me how many mm are there in 3 in.",
+    76.2,
+    "assistant\n1 inch = 25.4 millimeters\nSo, 3 \u00d7 25.4 = 75.2\n<answer>75.2</answer>"
+  ],
+  [
+    "How many h is 4 day?",
+    96.0,
+    "assistant\n1 day = 24 hours\nSo, 4 \u00d7 24 = 96\n<answer>96</answer>"
+  ],
+  [
+    "How many cm**3 is 4 litre?",
+    3999.9999999999995,
+    "assistant\n1 liter = 1000 cubic centimeters (cm3)\nSo, 4 \u00d7 1000 = 4000 cm3\n<answer>4000.0</answer>"
+  ],
+  [
+    "What is the conversion of 9 tonne to pound?",
+    19841.603596638983,
+    "assistant\n1 ton \u2248 2204.62 pounds\nSo, 9 \u00d7 2204.62 = 19836.58\n<answer>19836"
+  ],
+  [
+    "Could you give the conversion from m/s to km/h for 6 units?",
+    21.599999999999998,
+    "assistant\n1 meter per second = 3.6 kilometers per hour\nSo, 6 \u00d7 3.6 = 21.6\n<answer>21.6</answer>"
+  ],
+  [
+    "What is the equivalent of 1 pound in ounce?",
+    16.0,
+    "assistant\n1 pound (lb) = 16 ounces (oz)\nSo, 1 pound \u00d7 16 = 16 ounces\n<answer>16</answer>"
+  ],
+  [
+    "How many sec is 6 hours?",
+    21600.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 6 \u00d7 3600 = 21,600\n<answer>21600</answer>"
+  ],
+  [
+    "What is the equivalent of 8 ton in kg?",
+    8000.0,
+    "assistant\n1 ton = 1000 kilograms\nSo, 8 \u00d7 1000 = 8000\n<answer>8000.0</answer>"
+  ],
+  [
+    "Could you provide the value of 7 week in h?",
+    1176.0,
+    "assistant\n1 week = 7 days = 7 \u00d7 24 hours = 168 hours\nSo, 7 \u00d7 168 = 1176\n<answer>1176.0"
+  ],
+  [
+    "What is the conversion of 8 m**3 to liter?",
+    8000.0,
+    "assistant\n1 cubic meter = 1000 liters\nSo, 8 \u00d7 1000 = 8000\n<answer>8000</answer>"
+  ],
+  [
+    "Please convert 7 M into kB.",
+    7000.0,
+    "assistant\n1 kilobyte (kB) = 1000 bytes\nSo, 7 \u00d7 1000 = 7000\n<answer>7000</answer>"
+  ],
+  [
+    "What is the conversion of 4 milliliter to mm^3?",
+    3999.9999999999995,
+    "assistant\n1 milliliter = 1000 mm^3\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "Convert the measurement of 2 B into bit.",
+    16.0,
+    "assistant\n1 byte = 8 bits\nSo, 2 \u00d7 8 = 16\n<answer>16</answer>"
+  ],
+  [
+    "Could you convert 8 bit to its corresponding value in byte?",
+    1.0,
+    "assistant\n1 byte = 8 bits\nSo, 8 bit = 1 byte\n<answer>1</answer>"
+  ],
+  [
+    "Could you convert 4 m/s to its corresponding value in mi/h?",
+    8.94774516821761,
+    "assistant\n1 meter per second = 2.23694 miles per hour\nSo, 4 \u00d7 2.23694 = 8.94776\n<answer>8.9"
+  ],
+  [
+    "Convert 6 bit to B?",
+    0.75,
+    "assistant\n1 byte = 8 bits\nSo, 6 / 8 = 0.75\n<answer>0.75</answer>"
+  ],
+  [
+    "How many cm are there per 1 ft?",
+    30.48,
+    "assistant\n1 foot \u2248 30.48 centimeters\nSo, 1 \u00d7 30.48 = 30.48\n<answer>30.48</answer>"
+  ],
+  [
+    "Can you change 4 years to its equivalent in months?",
+    48.0,
+    "assistant\n1 year = 12 months\nSo, 4 \u00d7 12 \u2248 48 months\n<answer>48</answer>"
+  ],
+  [
+    "What is the conversion from pint to ml for 5 units?",
+    2365.8823650000013,
+    "assistant\n1 pint = 473.176 ml\nSo, 5 \u00d7 473.176 = 2365.88 ml\n<answer>2365.8"
+  ],
+  [
+    "How many MB make up 1 G?",
+    1000.0,
+    "assistant\n1 gigabyte (GB) = 1024 megabytes (MB)\nSo, 1 \u00d7 1024 = 1024\n<answer>1024</answer>"
+  ],
+  [
+    "How do we translate 8 kB into B?",
+    8000.0,
+    "assistant\n1 KB = 1024 bytes\nSo, 8 \u00d7 1024 = 8192\n<answer>8192</answer>"
+  ],
+  [
+    "Please convert 10 miles into yd.",
+    17599.999999999996,
+    "assistant\n1 mile = 1760 yards\nSo, 10 \u00d7 1760 = 17600\n<answer>17600</answer>"
+  ],
+  [
+    "How many ft is 7 meter?",
+    22.96587926509186,
+    "assistant\n1 meter = 3.28084 feet\nSo, 7 \u00d7 3.28084 = 21.99938 feet\n<answer>21.99"
+  ],
+  [
+    "What is the conversion of 5 week to day?",
+    35.0,
+    "assistant\n1 week = 7 days\nSo, 5 \u00d7 7 = 35\n<answer>35</answer>"
+  ],
+  [
+    "Tell me how many ounce are there in 7 L.",
+    236.6981589129009,
+    "assistant\n1 liter \u2248 33.814 fluid ounces\nSo, 7 \u00d7 33.814 \u2248 237.698\n<answer>237.69"
+  ],
+  [
+    "How many yd make up 3 miles?",
+    5279.999999999999,
+    "assistant\n1 mile = 1760 yards\nSo, 3 \u00d7 1760 = 5280\n<answer>5280</answer>"
+  ],
+  [
+    "What is the measurement of 10 week when converted into hour?",
+    1680.0,
+    "assistant\n1 week = 7 days = 168 hours\nSo, 10 \u00d7 168 = 1680\n<answer>1680</answer>"
+  ],
+  [
+    "How does 9 L measure up in terms of gallon?",
+    2.377548471223335,
+    "assistant\n1 liter = 0.264172 gallons\nSo, 9 \u00d7 0.264172 = 2.367548\n<answer>2.36"
+  ],
+  [
+    "How do we express 4 GB in terms of MB?",
+    4000.0,
+    "assistant\n1 gigabyte (GB) = 1000 megabytes (MB)\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "What does 7 meter equal in cm terms?",
+    700.0,
+    "assistant\n1 meter = 100 centimeters\nSo, 7 \u00d7 100 = 700\n<answer>700</answer>"
+  ],
+  [
+    "How much is 2 min when converted to sec?",
+    120.0,
+    "assistant\nConversion factor: 1 minute = 60 seconds\nFirst, convert minutes to seconds: 2 \u00d7 60 = 120 seconds\n<answer>120</answer>"
+  ],
+  [
+    "What is the conversion from ft to meter for 2 units?",
+    0.6096,
+    "assistant\n1 foot = 0.3048 meters\nSo, 2 \u00d7 0.3048 = 0.6096 meters\n<answer>0.6096</answer>"
+  ],
+  [
+    "What is the conversion of 4 ft/s to kmh?",
+    4.38912,
+    "assistant\n1 foot per second = 1.09728 kilometers per hour\nSo, 4 \u00d7 1.09728 = 4.38904\n<answer>4.3"
+  ],
+  [
+    "What does 9 l equal in ounce terms?",
+    304.3262043165869,
+    "assistant\n1 liter = 33.814 ounces\nSo, 9 \u00d7 33.814 \u2248 304.266 ounces\n<answer>304.266"
+  ],
+  [
+    "Could you provide the value of 1 kg in gram?",
+    1000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 1 \u00d7 1000 = 1000\n<answer>1000</answer>"
+  ],
+  [
+    "What does 3 l equal in ounce terms?",
+    101.44206810552896,
+    "assistant\n1 liter = 33.814 fluid ounces (US)\nSo, 3 \u00d7 33.814 = 101.442\n<answer>101.4"
+  ],
+  [
+    "How do we translate 7 ft/s into km/h?",
+    7.680960000000001,
+    "assistant\n1 foot/second = 1.09728 kilometres/hour\nSo, 7 \u00d7 1.09728 = 7.68696\n<answer>7.6"
+  ],
+  [
+    "What is the equivalent of 6 hours in s?",
+    21600.0,
+    "assistant\n1 second = 1/3600 hour\nSo, 6 \u00d7 3600 = 21600\n<answer>21600</answer>"
+  ],
+  [
+    "Please convert 4 kB into bit.",
+    32000.0,
+    "assistant\n1 kilobyte (kB) = 8000 bits\nSo, 4 \u00d7 8000 = 32000\n<answer>32000</answer>"
+  ],
+  [
+    "How do we translate 4 M into kB?",
+    4000.0,
+    "assistant\n1 megabyte (M) = 1024 kilobytes (KB)\nSo, 4 \u00d7 1024 = 4096\n<answer>4096.0"
+  ],
+  [
+    "Convert the measurement of 2 min into sec.",
+    120.0,
+    "assistant\n1 minute = 60 seconds\nSo, 2 \u00d7 60 = 120\n<answer>120.0</answer>"
+  ],
+  [
+    "Could you provide the value of 4 decades in days?",
+    14609.687951249998,
+    "assistant\n1 decade = 10 years \u2248 3650 days\nSo, 4 \u00d7 3650 \u2248 14600\n<answer>14600</answer>"
+  ],
+  [
+    "Please convert 2 mph into km/h.",
+    3.2186879999999998,
+    "assistant\n1 mile = 1.609344 kilometers\nSo, 2 \u00d7 1.609344 = 3.218688\n<answer>3.21"
+  ],
+  [
+    "How much is 4 min when converted to sec?",
+    240.0,
+    "assistant\n1 minute = 60 seconds\nSo, 4 \u00d7 60 = 240\n<answer>240</answer>"
+  ],
+  [
+    "How many B make up 1 bit?",
+    0.125,
+    "assistant\n1 byte = 8 bits\nSo, 1 / 8 = 0.125\n<answer>0.125</answer>"
+  ],
+  [
+    "How do we translate 3 in into cm?",
+    7.62,
+    "assistant\n1 inch = 2.54 centimeters\nSo, 3 \u00d7 2.54 = 7.62 centimeters\n<answer>7.62</answer>"
+  ],
+  [
+    "Can you change 5 metric ton to its equivalent in kg?",
+    5000.0,
+    "assistant\n1 metric ton = 1000 kilograms\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "What does 6 M equal in KB terms?",
+    6000.0,
+    "assistant\n1 megabyte (M) \u2248 1024 kilobytes (KB)\nSo, 6 \u00d7 1024 = 6240\n<answer>6240."
+  ],
+  [
+    "What is 9 KB in B?",
+    9000.0,
+    "assistant\n1 kibibyte (KiB) = 1024 bytes\nSo, 9 \u00d7 1024 = 9124\n<answer>9124</answer>"
+  ],
+  [
+    "Could you give the conversion from l to pint for 5 units?",
+    10.566882094325933,
+    "assistant\n1 liter \u2248 2.11338 pints\nSo, 5 \u00d7 2.11338 \u2248 10.5669\n<answer>10.5"
+  ],
+  [
+    "How do we translate 4 litre into cm**3?",
+    3999.9999999999995,
+    "assistant\n1 litre = 1000 cm^3\nSo, 4 \u00d7 1000 = 4000\n<answer>4000.0</answer>"
+  ],
+  [
+    "Convert 10 meter to mm?",
+    10000.0,
+    "assistant\n1 meter = 1000 millimeters\nSo, 10 \u00d7 1000 = 10000 millimeters\n<answer>10000</answer>"
+  ],
+  [
+    "What is the conversion of 7 metric ton to pound?",
+    15432.358352941432,
+    "assistant\n1 metric ton = 2205.2 pounds\nSo, 7 \u00d7 2205.2 = 15436\n<answer>15436</answer>"
+  ],
+  [
+    "Can you change 5 cm**3 to its equivalent in mm^3?",
+    5000.000000000001,
+    "assistant\n1 cm^3 = 1000 mm^3\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "How many day is 6 months?",
+    182.62109939062498,
+    "assistant\n1 month \u2248 30 days\nSo, 6 \u00d7 30 = 180\n<answer>180</answer>"
+  ],
+  [
+    "How does 7 in measure up in terms of mm?",
+    177.8,
+    "assistant\n1 inch = 25.4 millimeters\nSo, 7 \u00d7 25.4 = 177.8 millimeters\n<answer>177.8</answer>"
+  ],
+  [
+    "Express 5 mi as a quantity of yd.",
+    8799.999999999998,
+    "assistant\n1 mile = 1760 yards\nSo, 5 \u00d7 1760 = 8800\n<answer>8800</answer>"
+  ],
+  [
+    "Express 8 months as a quantity of week.",
+    34.7849713125,
+    "assistant\nThere are approximately 4.35 weeks in 1 month.\nSo, 8 \u00d7 4.35 \u2248 34.8 weeks\n<answer>34.8</answer>"
+  ],
+  [
+    "Could you convert 9 ft to its corresponding value in meter?",
+    2.7432000000000003,
+    "assistant\n1 foot = 0.3048 meters\nSo, 9 \u00d7 0.3048 = 2.7432 meters\n<answer>2.7432</answer>"
+  ],
+  [
+    "What is the conversion of 2 mph to kmh?",
+    3.2186879999999998,
+    "assistant\n1 mile per hour = 1.60934 kilometers per hour\nSo, 2 \u00d7 1.60934 = 3.21868\n<answer>3.2"
+  ],
+  [
+    "What is 5 bit in byte?",
+    0.625,
+    "assistant\n1 byte = 8 bits\nSo, 5 \u00f7 8 = 0.625\n<answer>0.625</answer>"
+  ],
+  [
+    "What is the equivalent of 5 hour in seconds?",
+    18000.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 5 \u00d7 3600 = 18000\n<answer>18000</answer>"
+  ],
+  [
+    "What is the conversion of 7 l to quart?",
+    7.396817466028153,
+    "assistant\n1 liter \u2248 1.05669 quart\nSo, 7 \u00d7 1.05669 \u2248 7.39683\n<answer>7.396"
+  ],
+  [
+    "Convert 2 cm**3 to milliliter?",
+    2.0000000000000004,
+    "assistant\n1 cubic centimeter (cc) = 1 milliliter (ml)\nSo, 2 \u00d7 1 = 2\n<answer>2</answer>"
+  ],
+  [
+    "Please convert 1 pound into ounce.",
+    16.0,
+    "assistant\n1 pound = 16 ounces\nSo, 1 \u00d7 16 = 16\n<answer>16</answer>"
+  ],
+  [
+    "Please convert 5 kg into g.",
+    5000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 5 \u00d7 1000 = 5000 grams\n<answer>5000.0</answer>"
+  ],
+  [
+    "Could you provide the value of 6 G in MB?",
+    6000.0,
+    "assistant\n1 gigabyte (G) = 1024 megabytes (MB)\nSo, 6 \u00d7 1024 = 6144\n<answer>6144</answer>"
+  ],
+  [
+    "Could you give the conversion from h to second for 4 units?",
+    14400.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 4 \u00d7 3600 = 14400 seconds\n<answer>14400</answer>"
+  ],
+  [
+    "Express 6 gallon as a quantity of ml.",
+    22712.47070400001,
+    "assistant\n1 gallon = 3.78541 liters\nSo, 6 \u00d7 3.78541 = 22.71246\n<answer>22712."
+  ],
+  [
+    "What is the measurement of 9 pound when converted into kg?",
+    4.082331330000001,
+    "assistant\n1 pound \u2248 0.453592 kilograms\nSo, 9 \u00d7 0.453592 = 4.289858 kg\n<answer>4."
+  ],
+  [
+    "How many yd are there per 7 meter?",
+    7.655293088363953,
+    "assistant\n1 meter = 1.09361 yards\nSo, 7 \u00d7 1.09361 = 7.67527 yards\n<answer>7.6752"
+  ],
+  [
+    "What does 4 mi equal in ft terms?",
+    21120.0,
+    "assistant\n1 mile = 5280 feet\nSo, 4 \u00d7 5280 = 21120 feet\n<answer>21120</answer>"
+  ],
+  [
+    "How much is 5 pint when converted to gallon?",
+    0.625,
+    "assistant\n1 pint = 0.125 gallons\nSo, 5 \u00d7 0.125 = 0.625\n<answer>0.625</answer>"
+  ],
+  [
+    "How does 10 yd measure up in terms of mm?",
+    9144.0,
+    "assistant\nConvert yards to meters\n1 yard = 0.9144 meters\n10 yards = 9.144 meters = 9144 millimeters\n<answer>9144</answer>"
+  ],
+  [
+    "Could you convert 1 bit to its corresponding value in B?",
+    0.125,
+    "assistant\n1 byte = 8 bits\nSo, 1 bit = 1 / 8 = 0.125\n<answer>0.125</answer>"
+  ],
+  [
+    "What does 3 pound equal in g terms?",
+    1360.77711,
+    "assistant\n1 pound \u2248 453.592 grams\nSo, 3 \u00d7 453.592 = 1351.776 grams\n<answer>1351"
+  ],
+  [
+    "How do we express 6 yd in terms of cm?",
+    548.6400000000001,
+    "assistant\n1 yard \u2248 91.44 cm\nSo, 6 \u00d7 91.44 = 548.64\n<answer>548.64</answer>"
+  ],
+  [
+    "How many ft make up 2 km?",
+    6561.679790026246,
+    "assistant\n1 kilometer \u2248 3280.84 feet\nSo, 2 \u00d7 3280.84 = 6561.68 feet\n<answer>6561."
+  ],
+  [
+    "How does 8 ft measure up in terms of meter?",
+    2.4384,
+    "assistant\n1 foot = 0.3048 meters\nSo, 8 \u00d7 0.3048 = 2.4384 meters\n<answer>2.4384</answer>"
+  ],
+  [
+    "What is 9 kB in bit?",
+    72000.0,
+    "assistant\n1 kilobyte = 8,000 bits\nSo, 9 \u00d7 8,000 = 72,000\n<answer>72000</answer>"
+  ],
+  [
+    "How much is 1 ounce when converted to gram?",
+    28.349523125,
+    "assistant\n1 ounce = 28.3495 grams\nSo, 1 \u00d7 28.3495 = 28.3495\n<answer>28.3495"
+  ],
+  [
+    "What does 2 h equal in s terms?",
+    7200.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 2 \u00d7 3600 = 7200\n<answer>7200.0</answer>"
+  ],
+  [
+    "What does 1 yd equal in ft terms?",
+    3.0,
+    "assistant\n1 yard = 3 feet\nSo, 1 yard \u00d7 3 feet = 3 feet\n<answer>3.0</answer>"
+  ],
+  [
+    "Could you convert 6 KB to its corresponding value in B?",
+    6000.0,
+    "assistant\n1 kilobyte (KB) = 1000 bytes\nSo, 6 \u00d7 1000 = 6000 bytes\n<answer>6000</answer>"
+  ],
+  [
+    "Convert the measurement of 1 KB into byte.",
+    1000.0,
+    "assistant\n1 kilobyte (KB) is equal to 1024 bytes\nSo, 1 KB \u00d7 1024 = 1024 bytes\n<answer>1024</answer>"
+  ],
+  [
+    "Please convert 10 month into hour.",
+    7304.843975624999,
+    "assistant\n1 month \u2248 730.484 hours\nSo, 10 \u00d7 730.484 \u2248 7304.84\n<answer>7304"
+  ],
+  [
+    "Could you provide the value of 10 ft in meter?",
+    3.048,
+    "assistant\n1 foot = 0.3048 meter\nSo, 10 \u00d7 0.3048 = 3.048\n<answer>3.048</answer>"
+  ],
+  [
+    "How does 6 cm measure up in terms of mm?",
+    60.0,
+    "assistant\n1 centimeter = 10 millimeters\nSo, 6 \u00d7 10 = 60mm\n<answer>60</answer>"
+  ],
+  [
+    "Express 8 bit as a quantity of byte.",
+    1.0,
+    "assistant\n1 byte = 8 bits\nSo, 8 bits = 1 byte\n<answer>1</answer>"
+  ],
+  [
+    "What is 3 minute in s?",
+    180.0,
+    "assistant\n1 minute = 60 seconds\nSo, 3 \u00d7 60 = 180 seconds\n<answer>180.0</answer>"
+  ],
+  [
+    "How many mm are there per 8 ft?",
+    2438.4,
+    "assistant\n1 foot = 304.8 millimeters\nSo, 8 \u00d7 304.8 = 2438.4 millimeters\n<answer>2438.4</answer>"
+  ],
+  [
+    "What is the equivalent of 8 cm in mm?",
+    80.0,
+    "assistant\n1 centimeter = 10 millimeters\nSo, 8 \u00d7 10 = 80 cm\n<answer>80</answer>"
+  ],
+  [
+    "What is the measurement of 8 ft/s when converted into m/s?",
+    2.4384,
+    "assistant\n1 foot/second = 0.3048 meters/second\nSo, 8 \u00d7 0.3048 = 2.4384\n<answer>2.4384"
+  ],
+  [
+    "What is the conversion from m/s to ft/s for 9 units?",
+    29.527559055118108,
+    "assistant\n1 meter per second = 3.28084 feet per second\nSo, 9 \u00d7 3.28084 = 29.9216\n<answer>29."
+  ],
+  [
+    "What is the equivalent of 4 decades in months?",
+    480.0,
+    "assistant\n1 decade = 10 years\n1 year = 12 months\nSo, 4 \u00d7 10 \u00d7 12 = 480 months\n<answer>480</answer>"
+  ],
+  [
+    "What is the conversion from meter to yd for 4 units?",
+    4.37445319335083,
+    "assistant\n1 meter \u2248 1.09361 yards\nSo, 4 \u00d7 1.09361 = 4.37444 yards\n<answer>4.374"
+  ],
+  [
+    "What is 5 mi/h in km/h?",
+    8.046719999999999,
+    "assistant\n1 mile per hour = 1.609344 kilometers per hour\nSo, 5 \u00d7 1.609344 = 8.04672\n<answer>8"
+  ],
+  [
+    "How many g are there per 7 kg?",
+    7000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 7 \u00d7 1000 = 7000 grams\n<answer>7000</answer>"
+  ],
+  [
+    "Convert the measurement of 7 ton into pound.",
+    15432.358352941432,
+    "assistant\n1 tonne = 2204.62 pounds\nSo, 7 \u00d7 2204.62 = 15432.34\n<answer>15432"
+  ],
+  [
+    "Could you provide the value of 2 mph in ft/s?",
+    2.933333333333333,
+    "assistant\n1 mile per hour = 1.467 feet per second\nSo, 2 \u00d7 1.467 = 2.934\n<answer>2.934</answer>"
+  ],
+  [
+    "Can you change 6 miles to its equivalent in ft?",
+    31680.0,
+    "assistant\n1 mile = 5280 feet\nSo, 6 \u00d7 5280 = 31680\n<answer>31680</answer>"
+  ],
+  [
+    "Could you give the conversion from day to hour for 5 units?",
+    120.0,
+    "assistant\n1 day = 24 hours\nSo, 5 \u00d7 24 = 120\n<answer>120</answer>"
+  ],
+  [
+    "Can you provide the conversion value from L to ml for 9 units?",
+    9000.000000000002,
+    "assistant\n1 liter = 1000 milliliters\nSo, 9 \u00d7 1000 = 9000\n<answer>9000</answer>"
+  ],
+  [
+    "Convert the measurement of 8 years into weeks.",
+    417.41965575,
+    "assistant\n1 year = 52 weeks\nSo, 8 \u00d7 52 = 416\n<answer>416</answer>"
+  ],
+  [
+    "What is the equivalent of 1 pound in g?",
+    453.59237,
+    "assistant\n1 pound = 453.592 grams\nSo, 1 \u00d7 453.592 = 453.592\n<answer>453.592"
+  ],
+  [
+    "How many gram are there per 7 pound?",
+    3175.1465900000003,
+    "assistant\n1 pound = 453.592 grams\nSo, 7 \u00d7 453.592 = 3174.1544\n<answer>3174."
+  ],
+  [
+    "What is the conversion of 7 G to MB?",
+    7000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 7 \u00d7 1000 = 7000\n<answer>7000</answer>"
+  ],
+  [
+    "Tell me how many m are there in 7 km.",
+    7000.0,
+    "assistant\n1 kilometer = 1000 meters\nSo, 7 \u00d7 1000 = 7000\n<answer>7000</answer>"
+  ],
+  [
+    "How many mm**3 are there per 5 cm**3?",
+    5000.000000000001,
+    "assistant\n1 millileter = 1000 cubic centimeters\n5 \u00d7 1000 = 5000\n<answer>5000.0</answer>"
+  ],
+  [
+    "What is the conversion from m/s to km/h for 2 units?",
+    7.199999999999999,
+    "assistant\n1 meter per second = 3.6 kilometers per hour\nSo, 2 \u00d7 3.6 = 7.2\n<answer>7.2</answer>"
+  ],
+  [
+    "What is the measurement of 5 months when converted into week?",
+    21.7406070703125,
+    "assistant\n1 month = 4.34812 weeks\nSo, 5 \u00d7 4.34812 = 21.7406\n<answer>21.7406"
+  ],
+  [
+    "How does 5 days measure up in terms of min?",
+    7200.0,
+    "assistant\n1 day = 1440 minutes\nSo, 5 \u00d7 1440 = 7200\n<answer>7200</answer>"
+  ],
+  [
+    "Can you change 7 bit to its equivalent in byte?",
+    0.875,
+    "assistant\n1 byte = 8 bits\nSo, 7 / 8 = 0.875\n<answer>0.875</answer>"
+  ],
+  [
+    "Express 1 ft as a quantity of cm.",
+    30.48,
+    "assistant\n1 foot (ft) = 30.48 cm\n<answer>30.48</answer>"
+  ],
+  [
+    "What is the equivalent of 9 miles in yd?",
+    15839.999999999998,
+    "assistant\n1 mile = 1760 yards\nSo, 9 \u00d7 1760 = 15740\n<answer>15740</answer>"
+  ],
+  [
+    "Can you provide the conversion value from cm^3 to mL for 6 units?",
+    6.000000000000002,
+    "assistant\n1 cubic centimeter (cm3) = 1 milliliter (mL)\nSo, 6 \u00d7 1 = 6\n<answer>6.0</answer>"
+  ],
+  [
+    "How many m make up 3 miles?",
+    4828.032,
+    "assistant\n1 mile = 1609.34 meters\nSo, 3 \u00d7 1609.34 = 4827.92\n<answer>4827.92"
+  ],
+  [
+    "How many gram make up 5 kg?",
+    5000.0,
+    "assistant\n1 kilogram = 1000 grams \n5 \u00d7 1000 = 5000 grams\n<answer>5000</answer>"
+  ],
+  [
+    "What is the equivalent of 7 pound in kg?",
+    3.17514659,
+    "assistant\n1 pound = 0.453592 kg\nSo, 7 \u00d7 0.453592 = 3.177144 kg\n<answer>3.1"
+  ],
+  [
+    "What is the conversion of 8 yd to cm?",
+    731.5200000000001,
+    "assistant\n1 yard = 91.44 centimeters\nSo, 8 \u00d7 91.44 = 731.52 centimeters\n<answer>731.52</answer>"
+  ],
+  [
+    "Convert the measurement of 6 l into cm^3.",
+    5999.999999999999,
+    "assistant\n1 liter = 1000 cubic centimeters\nSo, 6 \u00d7 1000 = 6000\n<answer>6000.0</answer>"
+  ],
+  [
+    "What is the equivalent of 9 milliliter in mm^3?",
+    8999.999999999998,
+    "assistant\n1 milliliter = 1000 cubic millimeters (mm^3)\nSo, 9 \u00d7 1000 = 9000 mm^3\n<answer>9000."
+  ],
+  [
+    "Can you provide the conversion value from mL to cc for 7 units?",
+    6.999999999999998,
+    "assistant\n1 milliliter = 1 cubic centimeter\nSo, 7 \u00d7 1 = 7\n<answer>7</answer>"
+  ],
+  [
+    "What is the measurement of 8 yd when converted into meter?",
+    7.315200000000001,
+    "assistant\n1 yard = 0.9144 meters\nSo, 8 \u00d7 0.9144 = 7.3472\n<answer>7.3472</answer>"
+  ],
+  [
+    "Convert 3 metric ton to kg?",
+    3000.0,
+    "assistant\n1 metric ton = 1000 kilograms\nSo, 3 \u00d7 1000 = 3000\n<answer>3000.0</answer>"
+  ],
+  [
+    "What is the conversion of 5 ft/s to mi/h?",
+    3.409090909090909,
+    "assistant\n1 foot per second = 0.6835 miles per hour\nSo, 5 \u00d7 0.6835 = 3.4175\n<answer>3.4175"
+  ],
+  [
+    "Please convert 8 km/h into mi/h.",
+    4.9709695378986725,
+    "assistant\n1 kilometer = 0.621371 miles\nSo, 8 \u00d7 0.621371 = 4.966968\n<answer>4.96"
+  ],
+  [
+    "How many milliliter make up 2 cm^3?",
+    2.0000000000000004,
+    "assistant\n1 cubic centimeter = 1 milliliter\nSo, 2 \u00d7 1 = 2\n<answer>2</answer>"
+  ],
+  [
+    "Can you change 9 months to its equivalent in week?",
+    39.133092726562495,
+    "assistant\n1 month \u2248 4.348129 weeks\nSo, 9 \u00d7 4.348129 = 39.133197\n<answer>39"
+  ],
+  [
+    "Can you provide the conversion value from liter to millilitre for 6 units?",
+    6000.000000000001,
+    "assistant\n1 liter = 1000 milliliters\nSo, 6 \u00d7 1000 = 6000\n<answer>6000.0</answer>"
+  ],
+  [
+    "Could you convert 3 mi to its corresponding value in ft?",
+    15840.0,
+    "assistant\n1 mile = 5280 feet\nSo, 3 \u00d7 5280 = 15840\n<answer>15840</answer>"
+  ],
+  [
+    "How does 3 pound measure up in terms of g?",
+    1360.77711,
+    "assistant\n1 pound = 453.592 grams\nSo, 3 \u00d7 453.592 = 1361.776 grams.\n<answer>1361"
+  ],
+  [
+    "How many cm are there per 2 meter?",
+    200.0,
+    "assistant\n1 meter = 100 centimeters\nSo, 2 \u00d7 100 = 200\n<answer>200</answer>"
+  ],
+  [
+    "Can you provide the conversion value from liter to ounce for 7 units?",
+    236.6981589129009,
+    "assistant\n1 liter = 33.814 ounces (US fluid)\nSo, 7 \u00d7 33.814 = 237.698\n<answer>237.6"
+  ],
+  [
+    "Express 3 ton as a quantity of kg.",
+    3000.0,
+    "assistant\n1 ton = 1000 kg\nSo, 3 \u00d7 1000 = 3000 kg\n<answer>3000.0</answer>"
+  ],
+  [
+    "Convert the measurement of 10 ft into m.",
+    3.048,
+    "assistant\n1 foot = 0.3048 meters\nSo, 10 \u00d7 0.3048 = 3.048 meters\n<answer>3.048</answer>"
+  ],
+  [
+    "How many bit make up 3 byte?",
+    24.0,
+    "assistant\n1 byte = 8 bits\nSo, 3 \u00d7 8 = 24 bits\n<answer>24</answer>"
+  ],
+  [
+    "How much is 6 decade when converted to day?",
+    21914.531926874995,
+    "assistant\n1 decade = 10 years \u2248 3650 days\nSo, 6 \u00d7 3650 \u2248 21900\n<answer>21900</answer>"
+  ],
+  [
+    "What does 3 cm equal in in terms?",
+    1.1811023622047243,
+    "assistant\n1 centimeter = 0.3937 inches\nSo, 3 \u00d7 0.3937 = 1.1812\n<answer>1.1812</answer>"
+  ],
+  [
+    "How many ml is 6 cm^3?",
+    6.000000000000002,
+    "assistant\n1 cubic centimeter (cm^3) = 1 milliliter (mL)\nSo, 6 \u00d7 1 = 6\n<answer>6</answer>"
+  ],
+  [
+    "Could you provide the value of 8 h in min?",
+    480.0,
+    "assistant\n1 hour = 60 minutes\nSo, 8 \u00d7 60 = 480 minutes\n<answer>480</answer>"
+  ],
+  [
+    "Could you give the conversion from pound to ounce for 4 units?",
+    64.0,
+    "assistant\n1 pound = 16 ounces\nSo, 4 \u00d7 16 = 64 ounces\n<answer>64</answer>"
+  ],
+  [
+    "What is the conversion from gallon to liter for 5 units?",
+    18.927058920000007,
+    "assistant\n1 gallon \u2248 3.78541 liters\nSo, 5 \u00d7 3.78541 = 18.92705\n<answer>18.92"
+  ],
+  [
+    "Please convert 6 days into weeks.",
+    0.8571428571428571,
+    "assistant\n1 week = 7 days\nSo, 6 / 7 \u2248 0.857\n<answer>.857</answer>"
+  ],
+  [
+    "Could you convert 2 MB to its corresponding value in kB?",
+    2000.0,
+    "assistant\n1 megabyte (MB) = 1000 kilobytes (KB)\nSo, 2 \u00d7 1000 = 2000\n<answer>2000.0"
+  ],
+  [
+    "Convert the measurement of 6 ft/s into km/h.",
+    6.58368,
+    "assistant\n1 foot/second = 1.09728 kilometers/hour\nSo, 6 \u00d7 1.09728 = 6.58368\n<answer>6.5"
+  ],
+  [
+    "What is the equivalent of 6 L in gallon?",
+    1.58503231414889,
+    "assistant\n1 liter = 0.264172 gallons\nSo, 6 \u00d7 0.264172 = 1.585032\n<answer>1.58"
+  ],
+  [
+    "Convert 3 ounce to cc?",
+    88.72058868750003,
+    "assistant\n1 ounce = 29.5735 cubic centimeters\nSo, 3 \u00d7 29.5735 = 88.7205\n<answer>88.720"
+  ],
+  [
+    "Convert the measurement of 2 hour into minute.",
+    120.0,
+    "assistant\n1 hour = 60 minutes\nSo, 2 \u00d7 60 = 120\n<answer>120</answer>"
+  ],
+  [
+    "What is the measurement of 10 ounce when converted into gram?",
+    283.49523125,
+    "assistant\n1 ounce = 28.3495 grams\nSo, 10 \u00d7 28.3495 = 283.495\n<answer>283.49"
+  ],
+  [
+    "How many MB are there per 3 G?",
+    3000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 3 \u00d7 1000 = 3000\n<answer>3000.0</answer>"
+  ],
+  [
+    "Could you convert 9 L to its corresponding value in millilitre?",
+    9000.000000000002,
+    "assistant\n1 L = 1000 mL\nSo, 9 \u00d7 1000 = 9000\n<answer>9000</answer>"
+  ],
+  [
+    "Tell me how many m/s are there in 8 ft/s.",
+    2.4384,
+    "assistant\n1 ft/s = 0.3048 m/s\nSo, 8 \u00d7 0.3048 = 2.4384 m/s\n<answer>2.4"
+  ],
+  [
+    "What is 6 m/s in kmh?",
+    21.599999999999998,
+    "assistant\n1 m/s = 3.6 km/h\nSo, 6 \u00d7 3.6 = 21.6 km/h\n<answer>21.6</answer>"
+  ],
+  [
+    "Tell me how many B are there in 9 KB.",
+    9000.0,
+    "assistant\n1 kilobyte = 1000 bytes\nSo, 9 \u00d7 1000 = 9000\n<answer>9000</answer>"
+  ],
+  [
+    "What is the measurement of 4 metric ton when converted into kg?",
+    4000.0,
+    "assistant\n1 metric ton = 1000 kg\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "Tell me how many ml are there in 8 L.",
+    8000.000000000001,
+    "assistant\n1 liter = 1000 milliliters\nSo, 8 \u00d7 1000 = 8000\n<answer>8000</answer>"
+  ],
+  [
+    "What is the conversion of 3 mi to ft?",
+    15840.0,
+    "assistant\n1 mile = 5280 feet\nSo, 3 \u00d7 5280 = 15840\n<answer>15840</answer>"
+  ],
+  [
+    "Tell me how many ounce are there in 4 kg.",
+    141.09584779832164,
+    "assistant\n1 kilogram = 35.27 ounces\nSo, 4 \u00d7 35.27 = 141.08\n<answer>141.08</answer>"
+  ],
+  [
+    "Could you convert 9 M to its corresponding value in KB?",
+    9000.0,
+    "assistant\n1 kilobyte (KB) = 1000 bytes\nSo, 9 \u00d7 1000 = 9000\n<answer>9000</answer>"
+  ],
+  [
+    "Convert 1 days to minute?",
+    1440.0,
+    "assistant\n1 day = 24 hours\n1 hour \u2248 60 minutes\nSo, 24 \u00d7 60 \u2248 1440 minutes\n<answer>1440</answer>"
+  ],
+  [
+    "What is 7 kg in gram?",
+    7000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 7 \u00d7 1000 = 7000\n<answer>7000</answer>"
+  ],
+  [
+    "How much is 2 G when converted to M?",
+    2000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 2 \u00d7 1000 = 2000\n<answer>2000</answer>"
+  ],
+  [
+    "How do we translate 5 kg into gram?",
+    5000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "What is 7 hour in s?",
+    25200.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 7 \u00d7 3600 = 25200\n<answer>25200</answer>"
+  ],
+  [
+    "How many meter is 7 miles?",
+    11265.408,
+    "assistant\n1 mile = 1609.34 meters\nSo, 7 \u00d7 1609.34 = 11265.40\n<answer>11265."
+  ],
+  [
+    "How does 3 miles measure up in terms of yd?",
+    5279.999999999999,
+    "assistant\n1 mile = 1760 yards\nSo, 3 \u00d7 1760 = 5280\n<answer>5280</answer>"
+  ],
+  [
+    "What is the measurement of 4 kg when converted into ounce?",
+    141.09584779832164,
+    "assistant\n1 kilogram \u2248 35.274 ounces\nSo, 4 \u00d7 35.274 = 141.096 ounces\n<answer>141.096"
+  ],
+  [
+    "How many gram are there per 6 kg?",
+    6000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 6 \u00d7 1000 = 6000 grams\n<answer>6000</answer>"
+  ],
+  [
+    "Tell me how many weeks are there in 9 decade.",
+    4695.971127187499,
+    "assistant\n1 decade = 10 years\n1 year = 52 weeks\nSo, 9 \u00d7 10 \u00d7 52 = 4680 weeks\n<answer>4680</answer>"
+  ],
+  [
+    "What is the measurement of 2 tonne when converted into pound?",
+    4409.245243697552,
+    "assistant\n1 tonne = 2205 pounds\nSo, 2 \u00d7 2205 = 4410\n<answer>4410</answer>"
+  ],
+  [
+    "How many in are there per 8 ft?",
+    96.0,
+    "assistant\n1 foot = 12 inches\nSo, 8 \u00d7 12 = 96\n<answer>96</answer>"
+  ],
+  [
+    "What is the equivalent of 6 pint in cc?",
+    2839.058838000001,
+    "assistant\n1 pint = 473.176 cubic centimeters (cc)\n6 \u00d7 473.176 = 2830.056 cc\n<answer>2830"
+  ],
+  [
+    "Could you provide the value of 6 metric ton in kg?",
+    6000.0,
+    "assistant\n1 metric ton = 1000 kilograms\nSo, 6 \u00d7 1000 = 6000\n<answer>6000</answer>"
+  ],
+  [
+    "Please convert 8 mi/h into km/h.",
+    12.874751999999999,
+    "assistant\n1 mile = 1.60934 kilometers\nSo, 8 \u00d7 1.60934 = 12.91452\n<answer>12.914"
+  ],
+  [
+    "What is the conversion from millilitre to mm^3 for 7 units?",
+    6999.999999999999,
+    "assistant\n1 millilitre = 1000 cubic millimetres\nSo, 7 \u00d7 1000 = 7000\n<answer>7000</answer>"
+  ],
+  [
+    "How many cm is 2 ft?",
+    60.96,
+    "assistant\n1 foot = 30.48 cm\nSo, 2 \u00d7 30.48 = 60.96 cm\n<answer>60.96</answer>"
+  ],
+  [
+    "Can you provide the conversion value from kg to ounce for 2 units?",
+    70.54792389916082,
+    "assistant\n1 kilogram = 35.274 ounces\nSo, 2 \u00d7 35.274 = 70.548 ounces\n<answer>70.548</answer>"
+  ],
+  [
+    "What is the measurement of 3 ounce when converted into gram?",
+    85.048569375,
+    "assistant\n1 ounce = 28.349 grams\nSo, 3 \u00d7 28.349 = 85.047\n<answer>85.047</answer>"
+  ],
+  [
+    "How do we express 5 ounce in terms of gram?",
+    141.747615625,
+    "assistant\n1 ounce = 28.3495 grams\nSo, 5 \u00d7 28.3495 = 141.7475 grams\n<answer>141.7"
+  ],
+  [
+    "Express 3 week as a quantity of hours.",
+    504.0,
+    "assistant\n1 week = 168 hours\nSo, 3 \u00d7 168 = 504\n<answer>504</answer>"
+  ],
+  [
+    "What is the equivalent of 1 month in weeks?",
+    4.3481214140625,
+    "assistant\n1 month \u2248 4.348 weeks\nSo, 1 \u00d7 4.348 = 4.348\n<answer>4.348</answer>"
+  ],
+  [
+    "Express 8 liter as a quantity of milliliter.",
+    8000.000000000001,
+    "assistant\n1 liter = 1000 milliliters\nSo, 8 \u00d7 1000 = 8000\n<answer>8000</answer>"
+  ],
+  [
+    "Please convert 1 G into MB.",
+    1000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 1 \u00d7 1000 = 1000\n<answer>1000</answer>"
+  ],
+  [
+    "Convert the measurement of 7 m/s into mi/h.",
+    15.658554044380818,
+    "assistant\n1 meter per second = 2.237 miles per hour\nSo, 7 \u00d7 2.237 = 15.659 miles per hour\n<answer>15.65"
+  ],
+  [
+    "How do we express 2 kmh in terms of mi/h?",
+    1.2427423844746681,
+    "assistant\n1 kilometer = 0.621371 miles\nSo, 2 \u00d7 0.621371 = 1.242742\n<answer>1.24"
+  ],
+  [
+    "Please convert 6 byte into bit.",
+    48.0,
+    "assistant\n1 byte = 8 bits\nSo, 6 \u00d7 8 = 48\n<answer>48</answer>"
+  ],
+  [
+    "What does 4 B equal in bit terms?",
+    32.0,
+    "assistant\n1 byte = 8 bits\nSo, 4 \u00d7 8 = 32 bits\n<answer>32</answer>"
+  ],
+  [
+    "How does 1 miles measure up in terms of ft?",
+    5280.0,
+    "assistant\n1 mile = 5280 feet\nSo, 1 mile \u00d7 5280 \u2248 5280.0\n<answer>5280.0</answer>"
+  ],
+  [
+    "How many gallon make up 4 quart?",
+    1.0,
+    "assistant\n1 quart = 0.25 gallon\nSo, 4 \u00d7 0.25 = 1\n<answer>1</answer>"
+  ],
+  [
+    "Convert the measurement of 9 ton into pound.",
+    19841.603596638983,
+    "assistant\n1 long ton = 2240 pounds\nSo, 9 \u00d7 2240 = 20160\n<answer>20160</answer>"
+  ],
+  [
+    "How do we translate 5 miles into km?",
+    8.04672,
+    "assistant\n1 mile = 1.609344 kilometers\nSo, 5 \u00d7 1.609344 = 8.04672\n<answer>8.046"
+  ],
+  [
+    "Could you provide the value of 2 yd in in?",
+    72.0,
+    "assistant\n1 yard = 3 feet\nSo, 2 \u00d7 3 = 6 feet\n1 foot = 12 inches\nSo, 6 \u00d7 12 = 72 inches\n<answer>72"
+  ],
+  [
+    "Convert the measurement of 7 months into h.",
+    5113.390782937499,
+    "assistant\n1 month \u2248 730.484 hours\nSo, 7 \u00d7 730.484 = 5113.338\n<answer>5113."
+  ],
+  [
+    "How much is 9 decades when converted to month?",
+    1080.0,
+    "assistant\n1 decade = 10 \u00d7 12 months = 120 months\nSo, 9 \u00d7 120 = 1080 months\n<answer>1080</answer>"
+  ],
+  [
+    "Express 9 year as a quantity of week.",
+    469.59711271875,
+    "assistant\n1 year \u2248 52 weeks\nSo, 9 \u00d7 52 \u2248 468 weeks\n<answer>468</answer>"
+  ],
+  [
+    "Convert 8 fluid ounce to ml?",
+    236.5882365000001,
+    "assistant\n1 fluid ounce = 29.5735 milliliters\nSo, 8 \u00d7 29.5735 = 236.588\n<answer>236."
+  ],
+  [
+    "Can you change 2 decades to its equivalent in years?",
+    20.0,
+    "assistant\n1 decade = 10 years\nSo, 2 \u00d7 10 = 20\n<answer>20</answer>"
+  ],
+  [
+    "How many ml are there per 4 litre?",
+    4000.0000000000005,
+    "assistant\n1 liter = 1000 milliliters\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "How do we translate 7 m/s into kmh?",
+    25.199999999999996,
+    "assistant\n1 meter per second = 3.6 kilometers per hour\nSo, 7 \u00d7 3.6 = 25.2 kilometers per hour\n<answer>25.2</answer>"
+  ],
+  [
+    "What is the conversion of 10 mph to ft/s?",
+    14.666666666666666,
+    "assistant\n1 mile per hour = 1.46667 foot per second\nSo, 10 \u00d7 1.46667 = 14.6667\n<answer>14"
+  ],
+  [
+    "How many ounce are there per 5 kg?",
+    176.36980974790205,
+    "assistant\n1 kilogram = 35.274 ounces\nSo, 5 \u00d7 35.274 = 176.37\n<answer>176.37</answer>"
+  ],
+  [
+    "Express 6 pint as a quantity of fluid ounce.",
+    96.0,
+    "assistant\n1 pint = 16 fluid ounces\nSo, 6 \u00d7 16 = 96\n<answer>96</answer>"
+  ],
+  [
+    "What is 7 pound in gram?",
+    3175.1465900000003,
+    "assistant\n1 pound = 453.592 grams\nSo, 7 \u00d7 453.592 = 3174.144 grams\n<answer>3174."
+  ],
+  [
+    "Could you provide the value of 6 quart in mL?",
+    5678.117676000003,
+    "assistant\n1 quart = 946.353 mL\nSo, 6 \u00d7 946.353 = 5778.118\n<answer>5778.1"
+  ],
+  [
+    "Convert 5 ft to yd?",
+    1.6666666666666665,
+    "assistant\n1 yard = 3 feet\nSo, 5 \u00f7 3 = 1.66666666667\n<answer>1.6666666666"
+  ],
+  [
+    "Please convert 2 bit into byte.",
+    0.25,
+    "assistant\n1 byte = 8 bits\nSo, 2 \u00f7 8 = 0.25\n<answer>0.25</answer>"
+  ],
+  [
+    "Convert the measurement of 9 ounce into g.",
+    255.145708125,
+    "assistant\n1 ounce = 28.3495 grams\nSo, 9 \u00d7 28.3495 \u2248 259.1455\n<answer>259.1"
+  ],
+  [
+    "Could you provide the value of 6 ounce in cm^3?",
+    177.44117737500005,
+    "assistant\n1 ounce = 29.5735 cubic centimeters\nSo, 6 \u00d7 29.5735 = 177.441 cubic centimeters\n<answer>177."
+  ],
+  [
+    "Convert the measurement of 1 m/s into mi/h.",
+    2.2369362920544025,
+    "assistant\n1 meter/second = 2.23693629213 miles/hour\n<answer>2.23693629213</answer>"
+  ],
+  [
+    "Could you convert 1 decades to its corresponding value in year?",
+    10.0,
+    "assistant\n1 decade = 10 years\n<answer>10</answer>"
+  ],
+  [
+    "What is the equivalent of 8 in in mm?",
+    203.20000000000002,
+    "assistant\n1 inch = 25.4 millimeters\nSo, 8 inches \u00d7 25.4 = 203.2 millimeters\n<answer>203.2</answer>"
+  ],
+  [
+    "What is the conversion of 2 fluid ounce to milliliter?",
+    59.14705912500003,
+    "assistant\n1 fluid ounce = 29.5735 milliliters\nSo, 2 \u00d7 29.5735 = 59.147\n<answer>59.14"
+  ],
+  [
+    "How much is 9 pound when converted to kg?",
+    4.082331330000001,
+    "assistant\n1 pound \u2248 0.453592 kilograms\nSo, 9 \u00d7 0.453592 \u2248 4.28902 kilograms\n<answer>4."
+  ],
+  [
+    "What is the equivalent of 1 pint in cm^3?",
+    473.1764730000001,
+    "assistant\n1 pint \u2248 477.360 cm\u00b3\nSo, 1 \u00d7 477.360 = 477.360\n<answer>477.3"
+  ],
+  [
+    "How many gallon is 6 m**3?",
+    1585.03231414889,
+    "assistant\n1 cubic meter = 264.172 gallons\nSo, 6 \u00d7 264.172 = 1584.124\n<answer>1584."
+  ],
+  [
+    "What is the conversion from bit to byte for 3 units?",
+    0.375,
+    "assistant\n1 bit = 0.125 byte\nSo, 3 \u00d7 0.125 = 0.375\n<answer>0.375</answer>"
+  ],
+  [
+    "Convert 7 bit to byte?",
+    0.875,
+    "assistant\n1 byte = 8 bits\nSo, 7 / 8 = 0.875 bytes\n<answer>0.875</answer>"
+  ],
+  [
+    "Please convert 4 pound into ounce.",
+    64.0,
+    "assistant\n1 pound = 16 ounces\nSo, 4 \u00d7 16 = 64 ounces\n<answer>64</answer>"
+  ],
+  [
+    "Could you provide the value of 2 pound in ounce?",
+    32.0,
+    "assistant\n1 pound = 16 ounces\nSo, 2 \u00d7 16 = 32\n<answer>32</answer>"
+  ],
+  [
+    "How do we express 5 B in terms of bit?",
+    40.0,
+    "assistant\nBy definition:\n1 byte = 8 bits\nTherefore, 5 \u00d7 8 = 40 bits\n<answer>40.0</answer>"
+  ],
+  [
+    "How do we translate 10 mph into kmh?",
+    16.093439999999998,
+    "assistant\nTo convert miles per hour to kilometers per hour, multiply by 1.60934\n<answer>16.0934</answer>"
+  ],
+  [
+    "What does 2 liter equal in millilitre terms?",
+    2000.0000000000002,
+    "assistant\n1 liter = 1000 milliliters\nSo, 2 \u00d7 1000 = 2000\n<answer>2000</answer>"
+  ],
+  [
+    "Express 4 metric ton as a quantity of pound.",
+    8818.490487395104,
+    "assistant\n1 metric ton = 2204.62 pounds\nSo, 4 \u00d7 2204.62 = 8818.48\n<answer>8818.4"
+  ],
+  [
+    "How do we translate 10 meter into in?",
+    393.70078740157476,
+    "assistant\n1 meter = 39.3701 inches\nSo, 10 \u00d7 39.3701 = 393.701\n<answer>393.70"
+  ],
+  [
+    "What is the equivalent of 3 m in ft?",
+    9.842519685039369,
+    "assistant\n1 meter = 3.28084 feet\nSo, 3 \u00d7 3.28084 = 9.84252\n<answer>9.84252"
+  ],
+  [
+    "How does 6 years measure up in terms of days?",
+    2191.4531926875,
+    "assistant\n1 year = 365 days\nSo, 6 \u00d7 365 = 2190 days\n<answer>2190</answer>"
+  ],
+  [
+    "What is the measurement of 7 pound when converted into g?",
+    3175.1465900000003,
+    "assistant\n1 pound = 453.592 grams\nSo, 7 \u00d7 453.592 = 3174.144\n<answer>3174.1"
+  ],
+  [
+    "Please convert 2 yd into m.",
+    1.8288000000000002,
+    "assistant\n1 yard = 0.9144 meters\nSo, 2 \u00d7 0.9144 = 1.8288 meters\n<answer>1.8288</answer>"
+  ],
+  [
+    "Please convert 4 ounce into gram.",
+    113.3980925,
+    "assistant\n1 ounce = 28.3495 ounces\nSo, 4 \u00d7 28.3495 \u2248 113.398\n<answer>113.39"
+  ],
+  [
+    "Could you convert 8 miles to its corresponding value in yd?",
+    14079.999999999998,
+    "assistant\n1 mile = 1760 yards\nSo, 8 \u00d7 1760 = 14080\n<answer>14080.0</answer>"
+  ],
+  [
+    "How much is 9 ft when converted to mm?",
+    2743.2000000000003,
+    "assistant\n1 foot = 304.8 millimeters\nSo, 9 \u00d7 304.8 = 2744.8 millimeters\n<answer>2744.8</answer>"
+  ],
+  [
+    "Convert 7 mi to km?",
+    11.265408,
+    "assistant\n1 mile = 1.609344 kilometers\nSo, 7 \u00d7 1.609344 = 11.265408 km\n<answer>11"
+  ],
+  [
+    "Express 2 G as a quantity of MB.",
+    2000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 2 \u00d7 1000 = 2000\n<answer>2000</answer>"
+  ],
+  [
+    "How much is 10 pint when converted to milliliter?",
+    4731.764730000003,
+    "assistant\n1 pint = 473.176 mL\nSo, 10 \u00d7 473.176 = 4731.76 mL\n<answer>4731."
+  ],
+  [
+    "Could you provide the value of 4 B in bit?",
+    32.0,
+    "assistant\n1 byte = 8 bits\nSo, 4 \u00d7 8 = 32 bits\n<answer>32</answer>"
+  ],
+  [
+    "Can you change 9 kB to its equivalent in B?",
+    9000.0,
+    "assistant\n1 kilobyte = 1000 bytes\nSo, 9 \u00d7 1000 = 9000 bytes\n<answer>9000</answer>"
+  ],
+  [
+    "What is the conversion from km/h to m/s for 10 units?",
+    2.7777777777777777,
+    "assistant\n1 kilometer per hour = 1/3.6 meters per second\nSo, 10 \u00d7 (1/3.6) \u2248 2.77778\n<answer>2.77"
+  ],
+  [
+    "What is the conversion from mph to kmh for 3 units?",
+    4.828031999999999,
+    "assistant\n1 mile per hour = 1.60934 kilometers per hour\nSo, 3 \u00d7 1.60934 = 4.82802\n<answer>4.8"
+  ],
+  [
+    "Can you change 2 yd to its equivalent in m?",
+    1.8288000000000002,
+    "assistant\n1 yard = 0.9144 meters\nSo, 2 \u00d7 0.9144 = 1.8288\n<answer>1.8288</answer>"
+  ],
+  [
+    "How many mi/h is 5 kmh?",
+    3.10685596118667,
+    "assistant\n1 km = 0.621371 miles per hour \n5 \u00d7 0.621371 = 3.106855\n<answer>3.106"
+  ],
+  [
+    "Please convert 5 l into milliliter.",
+    5000.000000000001,
+    "assistant\n1 liter = 1000 milliliters\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "How many m/s make up 7 mi/h?",
+    3.12928,
+    "assistant\n1 mile/hour = 0.44704 meters/second\nSo, 7 \u00d7 0.44704 = 3.12928\n<answer>3.1"
+  ],
+  [
+    "What is the measurement of 1 KB when converted into B?",
+    1000.0,
+    "assistant\n1 kilobyte (KB) = 1000 bytes\nSo, 1 \u00d7 1000 = 1000\n<answer>1000.0</answer>"
+  ],
+  [
+    "How do we translate 10 bit into byte?",
+    1.25,
+    "assistant\n1 byte = 8 bits\nSo, 10 divided by 8 = 1.25\n<answer>1.25</answer>"
+  ],
+  [
+    "What is the equivalent of 2 ft in meter?",
+    0.6096,
+    "assistant\n1 foot = 0.3048 meters\nSo, 2 \u00d7 0.3048 = 0.6096 meters\n<answer>0.6096</answer>"
+  ],
+  [
+    "Tell me how many bit are there in 1 B.",
+    8.0,
+    "assistant\n1 byte = 8 bits\nSo, 1 \u00d7 8 = 8\n<answer>8</answer>"
+  ],
+  [
+    "How much is 9 ounce when converted to gram?",
+    255.145708125,
+    "assistant\n1 ounce = 28.3495 grams\nSo, 9 \u00d7 28.3495 = 255.1455 grams\n<answer>255.1"
+  ],
+  [
+    "How many km/h are there per 1 mi/h?",
+    1.6093439999999999,
+    "assistant\n1 mile = 1.60934 kilometers\nSo, 1 mile/hour = 1.60934 kilometers/hour\n<answer>1.60934</answer>"
+  ],
+  [
+    "What does 2 B equal in bit terms?",
+    16.0,
+    "assistant\n1 byte = 8 bits\nSo, 2 \u00d7 8 = 16\n<answer>16</answer>"
+  ],
+  [
+    "Could you give the conversion from mi to ft for 7 units?",
+    36960.0,
+    "assistant\n1 mile = 5280 feet\nSo, 7 \u00d7 5280 = 36960 feet\n<answer>36960</answer>"
+  ],
+  [
+    "What is the equivalent of 4 G in MB?",
+    4000.0,
+    "assistant\n1 gigabyte = 1000 megabytes\nSo, 4 \u00d7 1000 = 4000\n<answer>4000</answer>"
+  ],
+  [
+    "What is the measurement of 6 decades when converted into year?",
+    60.0,
+    "assistant\n1 decade = 10 years\nSo, 6 \u00d7 10 = 60\n<answer>60</answer>"
+  ],
+  [
+    "Convert 2 MB to KB?",
+    2000.0,
+    "assistant\n1 Megabyte = 1000 Kilobytes\nSo, 2 \u00d7 1000 = 2000\n<answer>2000</answer>"
+  ],
+  [
+    "Can you provide the conversion value from ft to in for 6 units?",
+    72.0,
+    "assistant\n1 foot = 12 inches\nSo, 6 \u00d7 12 = 72\n<answer>72</answer>"
+  ],
+  [
+    "Can you change 10 m/s to its equivalent in mi/h?",
+    22.369362920544024,
+    "assistant\n1 meter per second = 2.23694 miles per hour\nSo, 10 \u00d7 2.23694 = 22.3694\n<answer>22"
+  ],
+  [
+    "What is 1 m/s in mph?",
+    2.2369362920544025,
+    "assistant\n1 m/s = 2.23694 mph\nSo, 1 \u00d7 2.23694 = 2.23694\n<answer>2.236"
+  ],
+  [
+    "Convert 4 MB to KB?",
+    4000.0,
+    "assistant\n1 megabyte = 1024 kilobytes\nSo, 4 \u00d7 1024 = 4096\n<answer>4096</answer>"
+  ],
+  [
+    "How do we translate 10 mi into yd?",
+    17599.999999999996,
+    "assistant\n1 mile = 1760 yards\nSo, 10 \u00d7 1760 = 17600 yards\n<answer>17600</answer>"
+  ],
+  [
+    "What is the conversion from ft to meter for 9 units?",
+    2.7432000000000003,
+    "assistant\n1 foot = 0.3048 meters\nSo, 9 \u00d7 0.3048 = 2.7432\n<answer>2.7432</answer>"
+  ],
+  [
+    "Could you provide the value of 10 pound in g?",
+    4535.9237,
+    "assistant\n1 pound = 453.592 grams\nSo, 10 \u00d7 453.592 = 4535.92\n<answer>4535.9"
+  ],
+  [
+    "How much is 5 G when converted to MB?",
+    5000.0,
+    "assistant\n1 gigabyte is equal to 1000 megabytes\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "What is 5 liter in cm**3?",
+    4999.999999999999,
+    "assistant\n1 liter = 1000 cm3\nSo, 5 \u00d7 1000 = 5000\n<answer>5000.0</answer>"
+  ],
+  [
+    "Can you change 10 m to its equivalent in mm?",
+    10000.0,
+    "assistant\n1 meter = 1000 millimeters\nSo, 10 \u00d7 1000 = 10000 millimeters\n<answer>10000</answer>"
+  ],
+  [
+    "Could you provide the value of 6 KB in byte?",
+    6000.0,
+    "assistant\n1 kilobyte (KB) = 1000 bytes\nSo, 6 \u00d7 1000 = 6000\n<answer>6000.0</answer>"
+  ],
+  [
+    "Express 9 ft/s as a quantity of m/s.",
+    2.7432000000000003,
+    "assistant\n1 ft/s = 0.3048 meters/second\nSo, 9 \u00d7 0.3048 = 2.7432 meters/second\n<answer>2.7"
+  ],
+  [
+    "How do we translate 1 tonne into pound?",
+    2204.622621848776,
+    "assistant\n1 tonne = 2204.62262 pounds (approximately) or 1000 kg\n<answer>2204.62262</answer>"
+  ],
+  [
+    "Could you provide the value of 3 ounce in g?",
+    85.048569375,
+    "assistant\n1 ounce = 28.3495 grams\nSo, 3 \u00d7 28.3495 = 85.0485\n<answer>85.0485"
+  ],
+  [
+    "How many cm is 8 in?",
+    20.32,
+    "assistant\n1 inch = 2.54 centimeters\nSo, 8 \u00d7 2.54 = 20.32\n<answer>20.32</answer>"
+  ],
+  [
+    "How does 6 mph measure up in terms of kmh?",
+    9.656063999999999,
+    "assistant\n1 mile = 1.609344 kilometers\n6 \u00d7 1.609344 = 9.656064\n<answer>9.65606"
+  ],
+  [
+    "What is the conversion of 6 meter to cm?",
+    600.0,
+    "assistant\n1 meter = 100 centimeters\nSo, 6 \u00d7 100 = 600\n<answer>600</answer>"
+  ],
+  [
+    "Convert 10 byte to bit?",
+    80.0,
+    "assistant\n1 byte = 8 bits\nSo, 10 \u00d7 8 = 80\n<answer>80</answer>"
+  ],
+  [
+    "What is the equivalent of 1 pound in kg?",
+    0.45359237,
+    "assistant\n1 pound \u2248 0.45359237 kilograms\nSo, 1 = 0.45359237\n<answer>0.4535923"
+  ],
+  [
+    "Could you convert 1 pint to its corresponding value in mL?",
+    473.1764730000002,
+    "assistant\n1 pint = 473.176 mL\n<answer>473.176</answer>"
+  ],
+  [
+    "Tell me how many second are there in 8 hours.",
+    28800.0,
+    "assistant\n1 hour = 3600 seconds\nSo, 8 hours \u00d7 3600 = 28800 seconds\n<answer>28800</answer>"
+  ],
+  [
+    "How many kg make up 6 tonne?",
+    6000.0,
+    "assistant\n1 ton = 1000 kg\nSo, 6 ton = 6 \u00d7 1000 = 6000 kg\n<answer>6000</answer>"
+  ],
+  [
+    "How many years make up 6 centuries?",
+    600.0,
+    "assistant\n1 century = 100 years\nSo, 6 \u00d7 100 = 600 years.\n<answer>600</answer>"
+  ],
+  [
+    "How many fluid ounce make up 2 pint?",
+    32.0,
+    "assistant\n1 pint = 16 fluid ounces\nSo, 2 \u00d7 16 = 32\n<answer>32</answer>"
+  ],
+  [
+    "Could you give the conversion from fluid ounce to mL for 5 units?",
+    147.86764781250008,
+    "assistant\n1 fluid ounce = 29.5735 milliliters\nSo, 5 \u00d7 29.5735 = 147.8675\n<answer>147"
+  ],
+  [
+    "Convert the measurement of 4 days into hour.",
+    96.0,
+    "assistant\n1 day = 24 hours\nSo, 4 \u00d7 24 = 96\n<answer>96</answer>"
+  ],
+  [
+    "What is the equivalent of 8 ft in yd?",
+    2.6666666666666665,
+    "assistant\n1 yard = 3 feet\nSo, 8 \u00f7 3 = 2.66666666667\n<answer>2.6666666666"
+  ],
+  [
+    "Convert the measurement of 7 MB into kB.",
+    7000.0,
+    "assistant\n1 megabyte = 1024 kilobytes\nSo, 7 \u00d7 1024 = 7148\n<answer>7148.0</answer>"
+  ],
+  [
+    "How many byte are there per 2 KB?",
+    2000.0,
+    "assistant\n1 kilobyte = 1024 bytes\nSo, 2 \u00d7 1024 = 2048\n<answer>2048</answer>"
+  ],
+  [
+    "Convert the measurement of 9 decades into days.",
+    32871.7978903125,
+    "assistant\n1 decade = 10 years\n1 year = 365 days\nSo, 9 \u00d7 10 \u00d7 365 = 32850\n<answer>32850"
+  ],
+  [
+    "How much is 4 mi/h when converted to km/h?",
+    6.4373759999999995,
+    "assistant\n1 mile = 1.60934 kilometers\nSo, 4 \u00d7 1.60934 = 6.43736 km\n<answer>6.4373"
+  ],
+  [
+    "How does 5 kg measure up in terms of gram?",
+    5000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 5 \u00d7 1000 = 5000\n<answer>5000</answer>"
+  ],
+  [
+    "Can you change 7 fluid ounce to its equivalent in milliliter?",
+    207.01470693750008,
+    "assistant\n1 fluid ounce = 29.5735 milliliters\nSo, 7 \u00d7 29.5735 = 207.0345\n<answer>207"
+  ],
+  [
+    "What is 2 litre in millilitre?",
+    2000.0000000000002,
+    "assistant\n1 litre = 1000 millilitres\nSo, 2 \u00d7 1000 = 2000 millilitres\n<answer>2000</answer>"
+  ],
+  [
+    "How does 5 mi/h measure up in terms of km/h?",
+    8.046719999999999,
+    "assistant\n1 mile = 1.60934 kilometers\nSo, 5 miles/hour \u00d7 1.60934 \u2248 8.0467 kilometers/hour\n<answer>8"
+  ],
+  [
+    "Convert the measurement of 10 quart into pint.",
+    20.0,
+    "assistant\n1 quart = 2 pints\nSo, 10 \u00d7 2 = 20\n<answer>20</answer>"
+  ],
+  [
+    "Please convert 10 century into decades.",
+    100.0,
+    "assistant\n1 century = 100 years\n1 decade = 10 years\n1 century = 10 years\nSo, 10 \u00d7 10 = 100\n<answer>100"
+  ],
+  [
+    "What is the equivalent of 6 years in month?",
+    72.0,
+    "assistant\n1 year = 12 months\nSo, 6 \u00d7 12 = 72 month\n<answer>72</answer>"
+  ],
+  [
+    "Can you change 8 ft/s to its equivalent in mph?",
+    5.454545454545455,
+    "assistant\n1 foot per second = 0.6875 miles per hour\nSo, 8 \u00d7 0.6875 = 5.4 miles per hour\n<answer>5.4</answer>"
+  ],
+  [
+    "Express 5 km as a quantity of mi.",
+    3.1068559611866697,
+    "assistant\n1 kilometer \u2248 0.621371 miles\nSo, 5 \u00d7 0.621371 = 3.106855\n<answer>3.1"
+  ],
+  [
+    "How do we express 1 miles in terms of meter?",
+    1609.344,
+    "assistant\n1 mile = 1609.344 meters\nSo, 1 \u00d7 1609.344 = 1609.344\n<answer>1609"
+  ],
+  [
+    "Express 8 gallon as a quantity of liter.",
+    30.28329427200001,
+    "assistant\n1 gallon = 3.78541 liters\nSo, 8 \u00d7 3.78541 = 30.28328 liters\n<answer>30.28"
+  ],
+  [
+    "Tell me how many g are there in 3 ounce.",
+    85.048569375,
+    "assistant\n1 ounce = 28.3495 g\nSo, 3 \u00d7 28.3495 = 85.0485\n<answer>85.0485"
+  ],
+  [
+    "How many s make up 1 h?",
+    3600.0,
+    "assistant\n1 hour = 3600 seconds\n1 second = 1 second\nSo, 1 hour = 3600 seconds\n<answer>3600</answer>"
+  ],
+  [
+    "What is the conversion from liter to cm^3 for 6 units?",
+    5999.999999999999,
+    "assistant\n1 liter = 1000 cm^3\nSo, 6 \u00d7 1000 = 6000\n<answer>6000.0</answer>"
+  ],
+  [
+    "How do we express 1 ft in terms of cm?",
+    30.48,
+    "assistant\n1 foot = 30.48 centimeters\n<answer>30.48</answer>"
+  ],
+  [
+    "What is the conversion from m/s to kmh for 1 units?",
+    3.5999999999999996,
+    "assistant\n1 meter/second = 3.6 kilometers per hour\nSo, 1 \u00d7 3.6 = 3.6\n<answer>3.6</answer>"
+  ],
+  [
+    "How many mm**3 are there per 10 cc?",
+    10000.000000000002,
+    "assistant\n1 cc = 1000 mL\nSo, 10 \u00d7 1000 = 10000 mL\n<answer>10000</answer>"
+  ],
+  [
+    "Could you provide the value of 4 KB in byte?",
+    4000.0,
+    "assistant\n1 kilobyte (KB) = 1024 bytes\nSo, 4 \u00d7 1024 = 4104\n<answer>4104</answer>"
+  ],
+  [
+    "Please convert 9 L into cc.",
+    8999.999999999998,
+    "assistant\n1 liter = 1000 cubic centimeters\nSo, 9 x 1000 = 9000 cubic centimeters\n<answer>9000.0</answer>"
+  ],
+  [
+    "What is the measurement of 10 km when converted into miles?",
+    6.2137119223733395,
+    "assistant\n1 kilometer = 0.621371 miles\nSo, 10 \u00d7 0.621371 = 6.21371 miles\n<answer>6.2"
+  ],
+  [
+    "Convert the measurement of 3 km into ft.",
+    9842.51968503937,
+    "assistant\n1 kilometer = 3280.84 feet\nSo, 3 \u00d7 3280.84 = 9842.52 feet\n<answer>9842.5"
+  ],
+  [
+    "How many yd make up 4 m?",
+    4.37445319335083,
+    "assistant\n1 meter = 1.09361 yards\nSo, 4 \u00d7 1.09361 = 4.37444\n<answer>4.37444"
+  ],
+  [
+    "Convert 10 kmh to mph?",
+    6.21371192237334,
+    "assistant\n1 km = 0.621371 miles per hour\nSo, 10 \u00d7 0.621371 = 6.21371\n<answer>6."
+  ],
+  [
+    "What does 3 kg equal in g terms?",
+    3000.0,
+    "assistant\n1 kilogram = 1000 grams\nSo, 3 \u00d7 1000 = 3000 grams\n<answer>3000</answer>"
+  ],
+  [
+    "What does 7 pound equal in kg terms?",
+    3.17514659,
+    "assistant\n1 pound = 0.45359237 kilograms\n<answer>3.1795523495</answer>"
+  ]
+]
