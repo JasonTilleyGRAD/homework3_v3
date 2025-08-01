@@ -85,7 +85,7 @@ def train_model(output_dir: str,**kwargs):
     
     model = BaseLLM().model
     tokenizer = AutoTokenizer.from_pretrained(model.config._name_or_path)
-    rank = 12
+    rank = 8
 
     pft_dict = {
         'task_type': 'CAUSAL_LM',
@@ -93,6 +93,7 @@ def train_model(output_dir: str,**kwargs):
         'bias': 'none',
         'r': rank,
         'lora_alpha': 5*rank,
+        # 'lora_dropout': 0.01,
     }
 
     pft_config = LoraConfig(**pft_dict)
