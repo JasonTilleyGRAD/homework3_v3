@@ -16,32 +16,32 @@ def generate_dataset(output_json: str, oversample: int = 10, temperature: float 
 
     if not os.path.exists(output_json): 
 
-
+        while len(dataset) < 1000:
         
 
-        model = CoTModel('HuggingFaceTb/SmolLM2-1.7B-instruct')
-        trainset = Dataset("train")
-        size = len(trainset)
+            model = CoTModel('HuggingFaceTb/SmolLM2-1.7B-instruct')
+            trainset = Dataset("train")
+            size = len(trainset)
 
-    
-        sampled = random.sample(list(trainset), k=min(size, len(trainset)))
+        
+            sampled = random.sample(list(trainset), k=min(size, len(trainset)))
 
-        question, correct_answer = zip(*sampled)
+            question, correct_answer = zip(*sampled)
 
-        prompts = [model.format_prompt(q) for q in question]
-        generations = model.batched_generate(prompts,num_return_sequences = 20,temperature = temperature)
-    
-        for i in range(len(question)):
-            q = question[i]
-            correct = correct_answer[i]
-            gen_list = generations[i]
-            gen_list_parsed = [model.parse_answer(g) for g in gen_list]
-                    
-            for j in range(len(gen_list)):
-                if is_answer_valid(gen_list_parsed[j], correct):
-                    dataset.append([q, correct, gen_list[j]])
-                    print(f"Success on index {i}")
-                    break
+            prompts = [model.format_prompt(q) for q in question]
+            generations = model.batched_generate(prompts,num_return_sequences = 20,temperature = temperature)
+        
+            for i in range(len(question)):
+                q = question[i]
+                correct = correct_answer[i]
+                gen_list = generations[i]
+                gen_list_parsed = [model.parse_answer(g) for g in gen_list]
+                        
+                for j in range(len(gen_list)):
+                    if is_answer_valid(gen_list_parsed[j], correct):
+                        dataset.append([q, correct, gen_list[j]])
+                        print(f"Success on index {i}")
+                        break
 
 
                 
