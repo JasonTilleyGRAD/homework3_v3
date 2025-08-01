@@ -111,7 +111,7 @@ def train_model(output_dir: str,**kwargs):
         output_dir=output_dir,
         logging_dir=output_dir,
         report_to="tensorboard",
-        num_train_epochs=7,
+        num_train_epochs=30,
         per_device_train_batch_size=32,    
     )
     
